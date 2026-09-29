@@ -480,6 +480,20 @@
       "sourceIds": []
     },
     {
+      "year": 1784,
+      "dateLabel": "13 August 1784",
+      "category": "reform",
+      "title": "Pitt's India Act establishes the Board of Control",
+      "summary": "Parliament creates a Board of Control to supervise the Company's political affairs in India.",
+      "detail": "The Act created a system of joint oversight by the Crown and the East India Company. It increased parliamentary control but did not abolish the Company's administration.",
+      "people": [
+        "William Pitt the Younger"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
       "year": 1790,
       "dateLabel": "1790–1792",
       "category": "war",
@@ -568,6 +582,20 @@
         "Sepoys of the Madras Army"
       ],
       "sourceIds": []
+    },
+    {
+      "year": 1813,
+      "dateLabel": "22 July 1813",
+      "category": "reform",
+      "title": "Charter Act of 1813",
+      "summary": "The Company's trade monopoly in India is ended, except for trade in tea and with China.",
+      "detail": "The Act reaffirmed Crown sovereignty over British possessions in India while the Company retained its administrative role. It also made provision for education and missionary activity.",
+      "people": [
+        "British Parliament"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
     },
     {
       "year": 1814,
@@ -688,6 +716,21 @@
       ]
     },
     {
+      "year": 1829,
+      "dateLabel": "4 December 1829",
+      "category": "reform",
+      "title": "Sati is prohibited in the Bengal Presidency",
+      "summary": "Regulation XVII of 1829 prohibits sati in the Bengal Presidency.",
+      "detail": "The regulation was issued under Governor-General Lord William Bentinck. The legal measure formed part of a longer debate involving Indian reformers, colonial officials and diverse regional practices.",
+      "people": [
+        "William Bentinck",
+        "Raja Rammohan Roy"
+      ],
+      "sourceIds": [
+        "raj"
+      ]
+    },
+    {
       "year": 1831,
       "dateLabel": "1831–1832",
       "category": "resistance",
@@ -713,6 +756,21 @@
         "William Bentinck"
       ],
       "sourceIds": []
+    },
+    {
+      "year": 1833,
+      "dateLabel": "28 August 1833",
+      "category": "reform",
+      "title": "Charter Act of 1833 receives royal assent",
+      "summary": "The Act renews the Company's charter, ends its remaining commercial role in India and centralises legislative authority.",
+      "detail": "The Governor-General of Bengal was designated Governor-General of India, effective in 1834. The Company remained the administrative instrument until 1858.",
+      "people": [
+        "British Parliament",
+        "William Bentinck"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
     },
     {
       "year": 1834,
@@ -827,6 +885,21 @@
       "sourceIds": []
     },
     {
+      "year": 1853,
+      "dateLabel": "1853",
+      "category": "reform",
+      "title": "Charter Act of 1853",
+      "summary": "Parliament renews the Company's charter without a fixed term and opens the way for competitive recruitment to the civil service.",
+      "detail": "The Act expanded the legislative council and separated legislative and executive functions within the Governor-General's Council. Competitive recruitment took shape through subsequent arrangements.",
+      "people": [
+        "British Parliament",
+        "Lord Dalhousie"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
       "year": 1855,
       "dateLabel": "June 1855–1856",
       "category": "resistance",
@@ -858,6 +931,21 @@
       ],
       "sourceIds": [
         "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1856,
+      "dateLabel": "26 July 1856",
+      "category": "reform",
+      "title": "Hindu Widows' Remarriage Act",
+      "summary": "Legislation legalises remarriage for Hindu widows in British India.",
+      "detail": "The measure followed sustained advocacy by reformers including Ishwar Chandra Vidyasagar. It also addressed the civil consequences of remarriage, including inheritance.",
+      "people": [
+        "Ishwar Chandra Vidyasagar",
+        "Lord Dalhousie"
+      ],
+      "sourceIds": [
+        "raj"
       ]
     },
     {
@@ -1015,6 +1103,20 @@
       ]
     },
     {
+      "year": 1878,
+      "dateLabel": "14 March 1878",
+      "category": "reform",
+      "title": "Vernacular Press Act",
+      "summary": "The colonial government enacts a law restricting publications in Indian-language newspapers.",
+      "detail": "The Act allowed officials to demand undertakings and suppress publications judged to incite disaffection. It was repealed in 1882 under Lord Ripon.",
+      "people": [
+        "Lord Lytton"
+      ],
+      "sourceIds": [
+        "raj"
+      ]
+    },
+    {
       "year": 1879,
       "dateLabel": "1879–1880",
       "category": "war",
@@ -1027,6 +1129,21 @@
       ],
       "sourceIds": [
         "resistanceInflibnet"
+      ]
+    },
+    {
+      "year": 1883,
+      "dateLabel": "1883",
+      "category": "reform",
+      "title": "Ilbert Bill controversy",
+      "summary": "A bill to widen the criminal jurisdiction of Indian judges over European British subjects provokes intense opposition.",
+      "detail": "The controversy exposed racial hierarchy in colonial law. The compromise diluted the original proposal and became a major public debate about equality before the law.",
+      "people": [
+        "Courtenay Ilbert",
+        "Lord Ripon"
+      ],
+      "sourceIds": [
+        "raj"
       ]
     },
     {
@@ -1084,6 +1201,20 @@
         "Kulachandra Singh"
       ],
       "sourceIds": []
+    },
+    {
+      "year": 1892,
+      "dateLabel": "1892",
+      "category": "reform",
+      "title": "Indian Councils Act 1892",
+      "summary": "The Act enlarges legislative councils and introduces a limited, indirect form of nomination linked to recommendations by bodies in India.",
+      "detail": "The councils could discuss budgets and ask questions under restrictions. The measure expanded participation but did not create responsible government.",
+      "people": [
+        "British Parliament"
+      ],
+      "sourceIds": [
+        "raj"
+      ]
     },
     {
       "year": 1897,
@@ -1362,6 +1493,22 @@
       ],
       "sourceIds": [
         "iranica"
+      ]
+    },
+    {
+      "year": 1919,
+      "dateLabel": "23 December 1919",
+      "category": "reform",
+      "title": "Government of India Act 1919",
+      "summary": "The Act introduces dyarchy in the provinces and expands legislative councils under the Montagu–Chelmsford reforms.",
+      "detail": "Provincial subjects were divided into reserved and transferred areas. The reforms broadened electoral participation but preserved substantial executive control; the system was criticised by many Indian leaders.",
+      "people": [
+        "Edwin Montagu",
+        "Lord Chelmsford"
+      ],
+      "sourceIds": [
+        "raj",
+        "nehru"
       ]
     },
     {
@@ -1644,6 +1791,22 @@
       ]
     },
     {
+      "year": 1932,
+      "dateLabel": "16 August 1932",
+      "category": "reform",
+      "title": "Communal Award announced",
+      "summary": "Prime Minister Ramsay MacDonald announces a scheme of separate electorates and representation for several communities, including the Depressed Classes.",
+      "detail": "The proposal led to Gandhi's fast and negotiations with B. R. Ambedkar, culminating in the Poona Pact of September 1932. The Award and Pact are debated in relation to representation and political autonomy.",
+      "people": [
+        "Ramsay MacDonald",
+        "B. R. Ambedkar",
+        "M. K. Gandhi"
+      ],
+      "sourceIds": [
+        "gandhi"
+      ]
+    },
+    {
       "year": 1935,
       "dateLabel": "2 August 1935",
       "category": "reform",
@@ -1797,6 +1960,23 @@
         "Shah Nawaz Khan",
         "Prem Kumar Sahgal",
         "Gurbaksh Singh Dhillon"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1945,
+      "dateLabel": "25 June–14 July 1945",
+      "category": "reform",
+      "title": "Simla Conference",
+      "summary": "Viceroy Wavell convenes Indian political leaders to discuss a reconstituted Executive Council.",
+      "detail": "The conference failed to reach agreement, particularly over representation and the Muslim League's claim to nominate Muslim members. It preceded the Cabinet Mission negotiations of 1946.",
+      "people": [
+        "Archibald Wavell",
+        "M. K. Gandhi",
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah"
       ],
       "sourceIds": [
         "nehru"
@@ -1971,6 +2151,19 @@
       "sourceIds": [
         "archives"
       ]
+    },
+    {
+      "year": 1947,
+      "dateLabel": "22 October 1947",
+      "category": "war",
+      "title": "War begins in Jammu and Kashmir after tribal invasion",
+      "summary": "Armed tribesmen enter Jammu and Kashmir from the northwest; fighting leads to the ruler's accession to India and Indian military deployment.",
+      "detail": "The conflict became the first India–Pakistan war and continued beyond the 1947 boundary of this chronology. It is included as an immediate post-independence conflict, not a war of the British Raj. The sequence of invasion, accession and military arrival should be treated as separate dated events.",
+      "people": [
+        "Maharaja Hari Singh",
+        "Sheikh Abdullah"
+      ],
+      "sourceIds": []
     }
   ],
   "sources": [

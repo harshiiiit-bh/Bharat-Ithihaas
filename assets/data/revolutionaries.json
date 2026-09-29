@@ -377,6 +377,21 @@
         "nehru"
       ],
       "id": "r27"
+    },
+    {
+      "id": "r28",
+      "name": "B. R. Ambedkar",
+      "years": "1891–1956",
+      "region": "Maharashtra / national",
+      "method": "Constitutional and social reform",
+      "group": "Depressed Classes leadership / Constituent Assembly",
+      "bio": "Lawyer, scholar, social reformer and political leader who campaigned against caste oppression and for the rights of the Depressed Classes.",
+      "role": "He negotiated the Poona Pact in 1932 and chaired the Constitution's Drafting Committee after independence.",
+      "context": "Ambedkar's struggle for social equality and political representation was an essential strand of India's transition; it should not be collapsed into armed revolutionary activity.",
+      "eventYear": 1932,
+      "sourceIds": [
+        "gandhi"
+      ]
     }
   ],
   "sources": [

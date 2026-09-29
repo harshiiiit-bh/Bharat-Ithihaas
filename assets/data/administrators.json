@@ -37,10 +37,10 @@
       "note": "First Governor-General under the Regulating Act of 1773."
     },
     {
-      "term": "1785–1786",
+      "term": "1 Feb 1785–12 Sep 1786",
       "name": "John Macpherson (acting)",
-      "office": "Governor-General of Bengal",
-      "note": "Acted after Hastings and before Cornwallis."
+      "office": "Governor-General of Bengal (acting)",
+      "note": "Acted between Warren Hastings and Charles Cornwallis."
     },
     {
       "term": "12 Sep 1786–28 Oct 1793",
@@ -61,10 +61,10 @@
       "note": "Expanded Company influence through subsidiary alliances."
     },
     {
-      "term": "1805",
+      "term": "30 Jul–5 Oct 1805",
       "name": "Charles Cornwallis (second term)",
       "office": "Governor-General of Bengal",
-      "note": "Briefly returned to office in 1805 and died in India."
+      "note": "Returned briefly to office in 1805 and died in India."
     },
     {
       "term": "10 Oct 1805–31 Jul 1807",
@@ -127,28 +127,28 @@
       "note": "Associated with annexation policies and major infrastructural expansion."
     },
     {
-      "term": "28 Feb 1856–1 Nov 1858",
+      "term": "1 Nov 1858–21 Mar 1862",
       "name": "Charles Canning",
-      "office": "Governor-General of India; first Viceroy from 1858",
-      "note": "Served through the 1857 uprising and the transfer from Company to Crown rule."
+      "office": "First Viceroy and Governor-General under Crown rule",
+      "note": "He had already served as Governor-General under the Company from 1856."
     },
     {
-      "term": "1 Nov 1858–20 Nov 1863",
+      "term": "21 Mar 1862–20 Nov 1863",
       "name": "James Bruce (Lord Elgin I)",
       "office": "Viceroy and Governor-General",
       "note": "Died while in office."
     },
     {
-      "term": "1863",
+      "term": "21 Nov–2 Dec 1863",
       "name": "Robert Napier (acting)",
-      "office": "Viceroy and Governor-General",
-      "note": "Brief acting term."
+      "office": "Viceroy and Governor-General (acting)",
+      "note": "Brief acting term between Elgin and Denison."
     },
     {
-      "term": "1863–1864",
+      "term": "2 Dec 1863–12 Jan 1864",
       "name": "William Denison (acting)",
-      "office": "Viceroy and Governor-General",
-      "note": "Acted until John Lawrence took office."
+      "office": "Viceroy and Governor-General (acting)",
+      "note": "Acted between Napier and John Lawrence."
     },
     {
       "term": "12 Jan 1864–12 Jan 1869",
@@ -163,10 +163,10 @@
       "note": "Assassinated at Port Blair in 1872."
     },
     {
-      "term": "1872",
+      "term": "9–23 Feb 1872",
       "name": "John Strachey (acting)",
-      "office": "Viceroy and Governor-General",
-      "note": "Brief acting term following Mayo's death."
+      "office": "Viceroy and Governor-General (acting)",
+      "note": "Acted after Lord Mayo's assassination."
     },
     {
       "term": "3 May 1872–12 Apr 1876",
@@ -259,19 +259,19 @@
       "note": "Oversaw the Simla Conference and early transfer negotiations."
     },
     {
-      "term": "24 Mar 1947–15 Aug 1947",
+      "term": "24 Mar–15 Aug 1947",
       "name": "Louis Mountbatten",
       "office": "Last Viceroy and Governor-General of British India",
       "note": "Oversaw the 3 June Plan and the transfer of power."
     },
     {
-      "term": "24 Mar 1947–15 Aug 1947",
+      "term": "24 Mar–15 Aug 1947",
       "name": "Louis Mountbatten",
       "office": "Governor-General of the Dominion of India",
       "note": "Continued as Governor-General after independence."
     },
     {
-      "term": "21 Jun 1948–26 Jan 1950",
+      "term": "21 Jun 1948–25 Jan 1950",
       "name": "C. Rajagopalachari",
       "office": "Governor-General of the Dominion of India",
       "note": "The only Indian to hold the office and the last Governor-General of India."
@@ -315,7 +315,7 @@
   ],
   "secretariesOfState": [
     {
-      "term": "2 Sep 1858–18 Jun 1859",
+      "term": "2 Aug 1858–18 Jun 1859",
       "name": "Edward Stanley, Lord Stanley",
       "note": "First Secretary of State for India after Crown administration began."
     },
@@ -325,7 +325,7 @@
       "note": "Oversaw the India Office through major administrative changes."
     },
     {
-      "term": "16 Feb–6 Jul 1866",
+      "term": "16 Feb–26 Jun 1866",
       "name": "George Robinson, Earl of Ripon",
       "note": "Brief first term; later served as Viceroy."
     },
@@ -335,12 +335,12 @@
       "note": "First term; later served as Marquess of Salisbury."
     },
     {
-      "term": "8 Mar 1867–9 Dec 1868",
+      "term": "8 Mar 1867–1 Dec 1868",
       "name": "Sir Stafford Northcote",
       "note": "Held office before the change of government in 1868."
     },
     {
-      "term": "9 Dec 1868–21 Feb 1874",
+      "term": "9 Dec 1868–17 Feb 1874",
       "name": "George Campbell, Duke of Argyll",
       "note": "Served during Gladstone's first ministry."
     },
@@ -350,7 +350,7 @@
       "note": "Second term as Secretary of State for India."
     },
     {
-      "term": "2 Apr 1878–28 Apr 1880",
+      "term": "2 Apr 1878–21 Apr 1880",
       "name": "Gathorne Hardy, Viscount Cranbrook",
       "note": "Served during the Second Anglo-Afghan War."
     },
@@ -360,17 +360,17 @@
       "note": "Held office during the early years of Gladstone's second ministry."
     },
     {
-      "term": "16 Dec 1882–24 Jun 1885",
+      "term": "16 Dec 1882–9 Jun 1885; 6 Feb–20 Jul 1886; 18 Aug 1892–10 Mar 1894",
       "name": "John Wodehouse, Earl of Kimberley",
       "note": "First of three terms."
     },
     {
-      "term": "24 Jun 1885–6 Feb 1886",
+      "term": "24 Jun 1885–28 Jan 1886",
       "name": "Lord Randolph Churchill",
       "note": "Served during the final period of the third Gladstone ministry and Salisbury's return."
     },
     {
-      "term": "6 Feb–3 Aug 1886",
+      "term": "16 Dec 1882–9 Jun 1885; 6 Feb–20 Jul 1886; 18 Aug 1892–10 Mar 1894",
       "name": "John Wodehouse, Earl of Kimberley",
       "note": "Second term."
     },
@@ -380,7 +380,7 @@
       "note": "Served during Salisbury's second ministry."
     },
     {
-      "term": "18 Aug 1892–10 Mar 1894",
+      "term": "16 Dec 1882–9 Jun 1885; 6 Feb–20 Jul 1886; 18 Aug 1892–10 Mar 1894",
       "name": "John Wodehouse, Earl of Kimberley",
       "note": "Third term."
     },
@@ -425,7 +425,7 @@
       "note": "Associated with the 1919 constitutional reforms."
     },
     {
-      "term": "21 Mar 1922–23 Jan 1924",
+      "term": "21 Mar 1922–23 Jan 1924; 1 Nov 1928–7 Jun 1929",
       "name": "William Peel, Viscount Peel",
       "note": "First term."
     },
@@ -440,7 +440,7 @@
       "note": "Served during the Conservative government of the 1920s."
     },
     {
-      "term": "1 Nov 1928–7 Jun 1929",
+      "term": "21 Mar 1922–23 Jan 1924; 1 Nov 1928–7 Jun 1929",
       "name": "William Peel, Viscount Peel",
       "note": "Second term."
     },
