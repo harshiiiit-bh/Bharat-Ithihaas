@@ -1318,6 +1318,11 @@ const TIMELINE_BANDS = [
     yearDisplay.textContent=lbl;
     const theme=applyEraTheme(y);
     eraNameEl.textContent=theme.name;
+    // Keep the persistent navigator and the main timeline in sync.
+    const dockRange=document.getElementById('timelineDockRange');
+    const dockYear=document.getElementById('timelineDockYear');
+    if(dockRange){dockRange.value=String(y);dockRange.setAttribute('aria-valuetext',lbl);}
+    if(dockYear)dockYear.textContent=lbl;
     // Sync bubble label color to accent
     yearDisplay.style.color='var(--t-accent)';
   }
@@ -1745,31 +1750,76 @@ const TIMELINE_BANDS = [
   }
 
   // ─── COMMIT + DEBOUNCE ───────────────────────────────────────────────────────
+  function renderLocalFallback(y){
+    const picked=searchTermFor(y);
+    const wikiUrl='https://en.wikipedia.org/wiki/'+encodeURIComponent(picked.term.replace(/ /g,'_'));
+    const fallback={
+      title:picked.term,
+      summary:'Live article details are temporarily unavailable. The local year index still points to '+yearLabel(picked.mappedYear)+': '+picked.term+'.',
+      keyPoints:[],dates:[],figures:[],impact:[],thumb:null,url:wikiUrl,
+      exact:picked.exact,mappedYear:picked.mappedYear,
+      nearbyTopics:nearbyTopics(y,6),sameYearEvents:[]
+    };
+    renderSnap(fallback,y);
+    const notice=document.createElement('div');
+    notice.className='yt-snap-fallback';
+    notice.innerHTML='<span>Live research did not respond. The local year index and nearby topic links are still available.</span><button type="button" id="ytRetryLive">Retry live research</button>';
+    panel.querySelector('.yt-snap-wrap')?.prepend(notice);
+    panel.querySelector('#ytRetryLive')?.addEventListener('click',()=>commitYear(y,true));
+  }
+
   async function commitYear(yRaw,scrollTo){
     const y=parseInt(yRaw,10);
+    clearTimeout(_debounceTimer);
+    _debounceTimer=null;
+    const myToken=++_snapToken;
     if(_snapCache[y]){
       renderSnap(_snapCache[y],y);
       if(scrollTo) panel.scrollIntoView({behavior:'smooth',block:'nearest'});
       return;
     }
     showLoading(y);
-    const myToken=++_snapToken;
+    let timer=setTimeout(()=>{
+      if(myToken===_snapToken)renderLocalFallback(y);
+    },8500);
     try{
       const snap=await fetchSnap(y);
-      if(myToken!==_snapToken) return;
+      clearTimeout(timer);
+      if(myToken!==_snapToken)return;
       renderSnap(snap,y);
       if(scrollTo) panel.scrollIntoView({behavior:'smooth',block:'nearest'});
     }catch(err){
-      if(myToken!==_snapToken) return;
-      panel.innerHTML=`<div class="yt-empty">⚠ Could not load data for ${escH(yearLabel(y))}. Try another year or check your connection.</div>`;
+      clearTimeout(timer);
+      if(myToken!==_snapToken)return;
+      renderLocalFallback(y);
+      if(scrollTo) panel.scrollIntoView({behavior:'smooth',block:'nearest'});
     }
   }
 
   function scheduleFetch(y){
     _pendingYear=y;
     clearTimeout(_debounceTimer);
+    ++_snapToken;
     _debounceTimer=setTimeout(()=>commitYear(_pendingYear,false),650);
   }
+
+  // Shared controls let the bottom navigator and the wavy timeline use the same year state.
+  window.chronicleSetYear=function(raw){
+    const y=parseInt(raw,10);
+    if(!Number.isFinite(y))return;
+    currentYear=Math.max(MIN,Math.min(MAX,y));
+    positionNode(currentYear);
+    updateDisplayOnly(currentYear);
+    scheduleFetch(currentYear);
+  };
+  window.chronicleCommitYear=function(raw,scrollTo){
+    const y=parseInt(raw,10);
+    if(!Number.isFinite(y))return;
+    currentYear=Math.max(MIN,Math.min(MAX,y));
+    positionNode(currentYear);
+    updateDisplayOnly(currentYear);
+    commitYear(currentYear,!!scrollTo);
+  };
 
   // ─── INIT ──────────────────────────────────────────────────────────────────
   buildWaveSvg();
@@ -3651,13 +3701,17 @@ const DECO_JUMPS=[
 
 /* ── SCROLL REVEAL OBSERVER ── */
 (function(){
+  if(typeof IntersectionObserver!=='function'){
+    document.querySelectorAll('.reveal,.reveal-left,.reveal-right').forEach(el=>el.classList.add('visible'));
+    return;
+  }
   const obs=new IntersectionObserver((entries)=>{
     entries.forEach(e=>{
       if(e.isIntersecting){e.target.classList.add('visible');obs.unobserve(e.target);}
     });
-  },{threshold:0.12,rootMargin:'0px 0px -40px 0px'});
+  },{threshold:0.01,rootMargin:'180px 0px 180px 0px'});
   function observe(){
-    document.querySelectorAll('.section,.era-card,.mon-card,.gw-card,.stat-pill,.section-head').forEach(el=>{
+    document.querySelectorAll('.era-card,.mon-card,.gw-card,.stat-pill,.section-head').forEach(el=>{
       if(!el.classList.contains('reveal')&&!el.classList.contains('reveal-left')){
         el.classList.add('reveal');
       }
@@ -3888,10 +3942,15 @@ const _origPositionNode=window.__posNode;
 
 /* ── APPLY REVEAL CLASS ON SCROLL AFTER GATE ── */
 function initReveal(){
+  const targets=document.querySelectorAll('.reveal,.reveal-left,.reveal-right');
+  if(typeof IntersectionObserver!=='function'){
+    targets.forEach(el=>el.classList.add('visible'));
+    return;
+  }
   const revObs=new IntersectionObserver((entries)=>{
-    entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');}});
-  },{threshold:0.08});
-  document.querySelectorAll('.reveal,.reveal-left,.reveal-right').forEach(el=>revObs.observe(el));
+    entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');revObs.unobserve(e.target);}});
+  },{threshold:0.01,rootMargin:'180px 0px 180px 0px'});
+  targets.forEach(el=>revObs.observe(el));
 }
 // Call after site shown
 const _origGateSubmit=document.getElementById('gateForm');
