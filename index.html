@@ -206,14 +206,7 @@
 
 
   <!-- Featured archives: dedicated, maintainable historical modules -->
-  <section class="archive-portals reveal" aria-label="Featured archives">
-    <div class="section-head"><div class="ey">✦ New research paths ✦</div><h2>Enter the Independence Archive</h2><p>Follow the Company's arrival, the wars and changing administrations, and the many people and movements that shaped independence.</p></div>
-    <div class="archive-portals-grid">
-      <a class="archive-portal" href="independence.html"><span class="ap-icon">⌛</span><span class="ap-title">1600–1947 · The Independence Timeline</span><span class="ap-copy">A draggable year dial, searchable events, war register and administrator directory.</span><span class="ap-link">Open the timeline →</span></a>
-      <a class="archive-portal" href="revolutionaries.html"><span class="ap-icon">✦</span><span class="ap-title">Revolutionaries & Resistance</span><span class="ap-copy">Profiles, organisations, regional networks and links to related events.</span><span class="ap-link">Explore the people →</span></a>
-      <a class="archive-portal" href="records.html"><span class="ap-icon">▤</span><span class="ap-title">Official Records Room</span><span class="ap-copy">Search digitised archives, parliamentary debates and original historical documents.</span><span class="ap-link">Enter the records room →</span></a>
-    </div>
-  </section>
+
 
   <!-- on this day -->
   <div id="onThisDayCard" class="otd-card" role="region" aria-label="On this day in history"></div>
@@ -709,10 +702,22 @@
       <a href="#timeline-sec">Timeline</a>
       <a href="#empire-chart-sec">Empires</a>
       <a href="#bottom-deco">Categories</a>
+      <a href="independence.html">Independence Archive</a>
+      <a href="revolutionaries.html">Revolutionaries</a>
+      <a href="records.html">Records Room</a>
     </div>
     <div class="footer-credit">✦ Crafted by Harshit Chaubey ✦</div>
     <div style="margin-top:.7rem;font-size:.62rem;opacity:.45;">Bhārat Itihās v3.0 — The Ocean of Knowledge · 200+ quotes · 40+ battles · 8 philosophers · Powered by Wikipedia Open API · No ads. No tracking.</div>
   </footer>
+
+  <div class="timeline-dock" id="timelineDock" role="group" aria-label="Timeline navigation">
+    <div class="timeline-dock-heading">
+      <span class="timeline-dock-kicker">SURF THROUGH TIME</span>
+      <strong class="timeline-dock-year" id="timelineDockYear">1948 CE</strong>
+    </div>
+    <input class="timeline-dock-range" id="timelineDockRange" type="range" min="-3000" max="2026" step="1" value="1948" aria-label="Choose a year" aria-valuetext="1948 CE">
+    <button class="timeline-dock-open" id="timelineDockOpen" type="button">Open timeline ↗</button>
+  </div>
 </div>
 
 <!-- ══ STORY MODE OVERLAY ══ -->
