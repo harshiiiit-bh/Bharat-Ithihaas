@@ -2016,3 +2016,8 @@ nav.nav-links{gap:clamp(.35rem,.75vw,1rem)}
 nav.nav-links a{font-size:clamp(.52rem,.57vw,.67rem)}
 @media(max-width:980px){nav.nav-links a[href="independence.html"],nav.nav-links a[href="revolutionaries.html"]{display:none}}
 @media(max-width:640px){.archive-portals{padding:1rem}.archive-portals-grid{grid-template-columns:1fr}}
+
+/* Three-card archive portal layout */
+.archive-portals-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+@media(max-width:880px){.archive-portals-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:640px){.archive-portals-grid{grid-template-columns:1fr!important}}
