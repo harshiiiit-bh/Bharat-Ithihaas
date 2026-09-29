@@ -1,0 +1,232 @@
+{
+  "records": [
+    {
+      "id": "nai",
+      "institution": "National Archives of India",
+      "country": "India · Ministry of Culture",
+      "kind": "National archive",
+      "period": "1748 onward",
+      "title": "Abhilekh Patal — digital archive",
+      "summary": "Search the National Archives of India's catalogue and digitised holdings, including records on Company expansion, colonial administration and the freedom struggle.",
+      "details": "Search by series, call number, creator, subject or accession number. Some records have catalogue descriptions but are not yet digitised; availability varies.",
+      "url": "https://abhilekh-patal.in/",
+      "tags": [
+        "primary records",
+        "catalogue",
+        "Company",
+        "Raj",
+        "freedom struggle"
+      ]
+    },
+    {
+      "id": "holdings",
+      "institution": "National Archives of India",
+      "country": "India · Ministry of Culture",
+      "kind": "Finding aid",
+      "period": "1630–1950s",
+      "title": "Public records & record holdings",
+      "summary": "Browse descriptions of record series preserved by the National Archives, including Foreign, Military, Home, Finance and States records.",
+      "details": "The holdings guide identifies record series by department and year range. It helps researchers locate likely collections before searching the digital portal or visiting the research room.",
+      "url": "https://www.nationalarchives.nic.in/en/public-records-holdings/public-records",
+      "tags": [
+        "primary records",
+        "finding aid",
+        "military",
+        "foreign affairs",
+        "finance"
+      ]
+    },
+    {
+      "id": "netaji",
+      "institution": "National Archives of India",
+      "country": "India · Ministry of Culture",
+      "kind": "Declassified files",
+      "period": "20th century",
+      "title": "Netaji Subhas Chandra Bose Papers",
+      "summary": "Access officially released and declassified file collections relating to Subhas Chandra Bose.",
+      "details": "Read file descriptions and dates carefully; an individual file is evidence of its contents, not necessarily a complete account of an event.",
+      "url": "https://www.netajipapers.gov.in/",
+      "tags": [
+        "primary records",
+        "Netaji",
+        "declassified",
+        "INA"
+      ]
+    },
+    {
+      "id": "parliament",
+      "institution": "Parliament Digital Library",
+      "country": "India · Parliament of India",
+      "kind": "Parliamentary archive",
+      "period": "1946–1950",
+      "title": "Constituent Assembly debates",
+      "summary": "Read digitised Constituent Assembly Draft Making and Legislative Debates in the Parliament Digital Library.",
+      "details": "Draft-making debates and legislative debates are separate collections; check the collection and sitting date before citing.",
+      "url": "https://eparlib.sansad.in/community-list",
+      "tags": [
+        "primary records",
+        "Constitution",
+        "debates",
+        "1947",
+        "1949"
+      ]
+    },
+    {
+      "id": "constitution",
+      "institution": "Legislative Department",
+      "country": "India · Ministry of Law and Justice",
+      "kind": "Constitutional document",
+      "period": "Adopted 1949 · in force 1950",
+      "title": "The Constitution of India",
+      "summary": "Read the official text of the Constitution on the Legislative Department website.",
+      "details": "The official text records commencement on 26 January 1950 and the repeal of the Indian Independence Act 1947 and Government of India Act 1935.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "tags": [
+        "primary document",
+        "Constitution",
+        "1950",
+        "legal text"
+      ]
+    },
+    {
+      "id": "gandhi",
+      "institution": "Gandhi Heritage Portal",
+      "country": "India · archival / research portal",
+      "kind": "Digital heritage collection",
+      "period": "1869–1948",
+      "title": "Gandhi chronology & documents",
+      "summary": "Explore the day-by-day event chronology, writings, journals, photographs and materials on Gandhi's life and movements.",
+      "details": "The chronology is based on C. B. Dalal's day-to-day account and includes sections for marches, imprisonments, tours and satyagrahas.",
+      "url": "https://gandhiheritageportal.org/chronology/event-chronology-listing",
+      "tags": [
+        "primary sources",
+        "chronology",
+        "Satyagraha",
+        "Dandi",
+        "letters"
+      ]
+    },
+    {
+      "id": "dandi",
+      "institution": "Gandhi Heritage Portal",
+      "country": "India · archival / research portal",
+      "kind": "Digital heritage collection",
+      "period": "1930",
+      "title": "Salt Satyagraha & Dandi March",
+      "summary": "Explore the Dandi March background, marchers, route chronology and post-march events.",
+      "details": "The portal organises Salt Satyagraha material into researchable sections. Use the detailed chronology for day-level dates.",
+      "url": "https://www.gandhiheritageportal.org/background-to-the-salt-satyagraha",
+      "tags": [
+        "Dandi March",
+        "1930",
+        "Satyagraha",
+        "route"
+      ]
+    },
+    {
+      "id": "nehru",
+      "institution": "Nehru Portal",
+      "country": "India · Ministry of Culture",
+      "kind": "Biographical archive",
+      "period": "1889–1964",
+      "title": "Freedom struggle & imprisonment chronology",
+      "summary": "Explore Nehru's participation in the freedom movement, imprisonment periods and related biographical material.",
+      "details": "The portal records involvement from the Bankipore Congress session and lists the dates and durations of Nehru's prison terms.",
+      "url": "https://nehruportal.nic.in/prison",
+      "tags": [
+        "biography",
+        "freedom struggle",
+        "imprisonment",
+        "1920s",
+        "1940s"
+      ]
+    },
+    {
+      "id": "amrit",
+      "institution": "Azadi Ka Amrit Mahotsav",
+      "country": "India · Ministry of Culture",
+      "kind": "People & district repository",
+      "period": "Regional freedom struggle",
+      "title": "Unsung Heroes of India's freedom struggle",
+      "summary": "Browse freedom-fighter profiles with state and district filters, including regional and lesser-known participants.",
+      "details": "The Ministry of Culture describes this as a compilation of freedom-struggle profiles. Coverage varies by person and region.",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-tag.htm?435=",
+      "tags": [
+        "freedom fighters",
+        "regional history",
+        "women",
+        "tribal leaders",
+        "district"
+      ]
+    },
+    {
+      "id": "district",
+      "institution": "Azadi Ka Amrit Mahotsav",
+      "country": "India · Ministry of Culture",
+      "kind": "People & district repository",
+      "period": "District-level history",
+      "title": "Digital District Repository",
+      "summary": "Explore districtwise narratives connecting local heritage and freedom movement events to wider Indian history.",
+      "details": "The repository documents local histories by district and can help identify people, places and events not present in national chronologies.",
+      "url": "https://amritmahotsav.nic.in/",
+      "tags": [
+        "district history",
+        "local records",
+        "regional movements"
+      ]
+    },
+    {
+      "id": "uk-1947",
+      "institution": "The National Archives",
+      "country": "United Kingdom · official archive",
+      "kind": "Document collection",
+      "period": "1947",
+      "title": "Indian independence — original documents, part two",
+      "summary": "Read transcripts and inspect documents about the 3 June Plan, partition, population movement and the immediate aftermath.",
+      "details": "The teaching collection includes catalogued documents with file references, transcripts and downloadable sources. Contemporary perspectives should be read as situated records.",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/indian-independence-part-two/",
+      "tags": [
+        "primary records",
+        "1947",
+        "partition",
+        "Mountbatten",
+        "boundary"
+      ]
+    },
+    {
+      "id": "uk-context",
+      "institution": "The National Archives",
+      "country": "United Kingdom · official archive",
+      "kind": "Document collection",
+      "period": "1946–1947",
+      "title": "Indian independence — context and documents, part one",
+      "summary": "Use the first National Archives teaching collection for background documents on the independence and partition process.",
+      "details": "The collection supports historical enquiry through selected primary documents and transcripts. Compare authors, dates, intended audiences and institutional positions.",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/indian-independence-part-one/",
+      "tags": [
+        "primary records",
+        "Cabinet Mission",
+        "1946",
+        "1947",
+        "partition"
+      ]
+    },
+    {
+      "id": "uk-act",
+      "institution": "UK Parliament",
+      "country": "United Kingdom · Parliament",
+      "kind": "Legislation",
+      "period": "1947",
+      "title": "Indian Independence Act 1947",
+      "summary": "Explore Parliament's historical guide to the legislation that created the two Dominions and set out the legal transfer.",
+      "details": "For exact legal wording, use the enacted text on the official legislation record. The Parliament guide provides background on the Act and its place in the end of British rule.",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/collections1/collections2/1947-indian-independence-act/",
+      "tags": [
+        "legislation",
+        "1947",
+        "Dominion",
+        "transfer of power"
+      ]
+    }
+  ]
+}

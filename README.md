@@ -3,6 +3,7 @@
 An interactive, static website for exploring Indian history, from early civilizations through empires, battles, rulers, monuments and the independence movement. The site is published with GitHub Pages; it has no required build step or application server.
 
 ## Pages
+- `records.html` — Records Room with searchable links to official online archives, primary documents and parliamentary collections.
 
 - `index.html` — the original interactive chronicle, with the empire, ruler, monument, quiz and search experiences.
 - `independence.html` — a dated timeline from the East India Company's 1600 charter through the 1947 transfer of power, a searchable war/campaign register and directories of central office-holders.
