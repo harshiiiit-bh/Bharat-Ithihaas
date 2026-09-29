@@ -1,0 +1,1648 @@
+{
+  "range": [
+    1600,
+    1947
+  ],
+  "events": [
+    {
+      "year": 1600,
+      "dateLabel": "31 December 1600",
+      "category": "company",
+      "title": "The English East India Company receives its charter",
+      "summary": "Elizabeth I grants a charter to a group of London merchants, giving them a monopoly over English trade east of the Cape of Good Hope.",
+      "detail": "The company began as a joint-stock trading venture. It was not yet a territorial government, and its early voyages focused heavily on Asian maritime trade.",
+      "people": [
+        "Elizabeth I",
+        "James Lancaster"
+      ],
+      "sourceIds": [
+        "bl"
+      ]
+    },
+    {
+      "year": 1608,
+      "dateLabel": "24 August 1608",
+      "category": "company",
+      "title": "William Hawkins reaches Surat",
+      "summary": "Hawkins arrives at Surat aboard the Hector during Jahangir's reign, carrying a letter from James I.",
+      "detail": "This is commonly used as a landmark for the Company's first sustained attempt to secure trading privileges in Mughal India. English access and factory rights developed gradually rather than in a single act.",
+      "people": [
+        "William Hawkins",
+        "Jahangir"
+      ],
+      "sourceIds": [
+        "bl",
+        "ie"
+      ]
+    },
+    {
+      "year": 1612,
+      "dateLabel": "29–30 November 1612",
+      "category": "war",
+      "title": "Battle of Swally (Suvali)",
+      "summary": "An English fleet defeats a Portuguese squadron off the coast near Surat.",
+      "detail": "The encounter helped the Company compete for maritime access on Gujarat's coast. It was a naval engagement in a wider contest involving European trading powers and Indian authorities.",
+      "people": [
+        "Thomas Best"
+      ],
+      "sourceIds": [
+        "bl",
+        "ie"
+      ]
+    },
+    {
+      "year": 1613,
+      "dateLabel": "1613",
+      "category": "company",
+      "title": "English trading factory established at Surat",
+      "summary": "The Company secures permission to establish a permanent trading presence at Surat.",
+      "detail": "A factory was a commercial settlement, not a modern industrial plant. The Company's trading network expanded through agreements, privileges and local negotiations.",
+      "people": [
+        "Jahangir",
+        "Thomas Best"
+      ],
+      "sourceIds": [
+        "bl",
+        "ie"
+      ]
+    },
+    {
+      "year": 1639,
+      "dateLabel": "1639",
+      "category": "company",
+      "title": "Company acquires Madras settlement",
+      "summary": "The English obtain a grant of land on the Coromandel coast and begin developing Fort St George.",
+      "detail": "Madras became one of the Company's principal presidencies. Its growth illustrates the Company's gradual move from coastal trade to fortified centres.",
+      "people": [
+        "Francis Day",
+        "Andrew Cogan"
+      ],
+      "sourceIds": [
+        "bl"
+      ]
+    },
+    {
+      "year": 1661,
+      "dateLabel": "1661–1668",
+      "category": "company",
+      "title": "Bombay passes to the English Crown, then to the Company",
+      "summary": "Bombay is transferred from Portugal to the English Crown as part of Catherine of Braganza's marriage settlement and leased to the Company in 1668.",
+      "detail": "Bombay later became a major presidency and port. The Crown-to-Company transfer is distinct from the Company's original 1600 charter.",
+      "people": [
+        "Catherine of Braganza",
+        "Charles II"
+      ],
+      "sourceIds": [
+        "bl"
+      ]
+    },
+    {
+      "year": 1686,
+      "dateLabel": "1686–1690",
+      "category": "war",
+      "title": "Anglo-Mughal War",
+      "summary": "The East India Company enters open conflict with the Mughal Empire after disputes over trade and privileges.",
+      "detail": "The Company's military position proved weak against Mughal power. The conflict ended with the Company seeking imperial pardon and resuming trade under Mughal authority.",
+      "people": [
+        "Aurangzeb",
+        "Job Charnock"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1690,
+      "dateLabel": "1690s",
+      "category": "company",
+      "title": "English settlement grows at the Hooghly",
+      "summary": "The Company consolidates settlements around Sutanuti, Govindpur and Kalikata, which later develop into Calcutta.",
+      "detail": "The city's early formation is often associated with 1690, though its development was gradual and the role of individual founders is debated.",
+      "people": [
+        "Job Charnock"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1698,
+      "dateLabel": "1698",
+      "category": "company",
+      "title": "Company obtains zamindari rights in three Calcutta villages",
+      "summary": "The Company acquires revenue-collecting rights over Sutanuti, Kalikata and Govindpur.",
+      "detail": "These rights strengthened the Company's local foothold around the settlement that became Calcutta.",
+      "people": [],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1746,
+      "dateLabel": "1746–1748",
+      "category": "war",
+      "title": "First Carnatic War",
+      "summary": "A European war spills into the Carnatic, bringing French and British East India Company forces into conflict in south India.",
+      "detail": "The war ended with the Treaty of Aix-la-Chapelle in Europe. Its Indian campaigns exposed how European rivalries could draw regional Indian powers into changing alliances.",
+      "people": [
+        "Joseph François Dupleix",
+        "La Bourdonnais"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1749,
+      "dateLabel": "1749–1754",
+      "category": "war",
+      "title": "Second Carnatic War",
+      "summary": "British and French companies support rival claimants in Hyderabad and the Carnatic.",
+      "detail": "The struggle was as much about succession and Indian alliances as it was about European rivalry. It helped the British strengthen their position in the south.",
+      "people": [
+        "Robert Clive",
+        "Joseph François Dupleix",
+        "Chanda Sahib"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1756,
+      "dateLabel": "1756–1763",
+      "category": "war",
+      "title": "Third Carnatic War",
+      "summary": "The global Seven Years' War extends to India, where British and French forces fight for influence.",
+      "detail": "The British victory at Wandiwash in 1760 and the fall of Pondicherry in 1761 sharply reduced French political power in India.",
+      "people": [
+        "Eyre Coote",
+        "Comte de Lally"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1757,
+      "dateLabel": "23 June 1757",
+      "category": "war",
+      "title": "Battle of Plassey",
+      "summary": "Company forces under Robert Clive defeat Siraj ud-Daulah's army in Bengal after a conspiracy involving senior Bengal officials.",
+      "detail": "The battle opened the way to Company political dominance in Bengal. Its outcome depended on defections and political bargaining as well as battlefield action.",
+      "people": [
+        "Robert Clive",
+        "Siraj ud-Daulah",
+        "Mir Jafar"
+      ],
+      "sourceIds": [
+        "parliamentCompany",
+        "ignca"
+      ]
+    },
+    {
+      "year": 1764,
+      "dateLabel": "22 October 1764",
+      "category": "war",
+      "title": "Battle of Buxar",
+      "summary": "Company forces defeat the combined armies of Mir Qasim, Shuja-ud-Daula and Mughal emperor Shah Alam II.",
+      "detail": "The victory secured the Company's military position in eastern India and set up the settlement of 1765.",
+      "people": [
+        "Hector Munro",
+        "Mir Qasim",
+        "Shuja-ud-Daula",
+        "Shah Alam II"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1765,
+      "dateLabel": "12 August 1765",
+      "category": "company",
+      "title": "Treaty of Allahabad and the Diwani grant",
+      "summary": "The Mughal emperor Shah Alam II grants the Company revenue-collecting rights (Diwani) in Bengal, Bihar and Orissa.",
+      "detail": "The grant made the Company a major revenue authority while the nawab's institutions remained in place. It transformed a trading company into a territorial revenue power.",
+      "people": [
+        "Shah Alam II",
+        "Robert Clive"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1767,
+      "dateLabel": "1767–1769",
+      "category": "war",
+      "title": "First Anglo-Mysore War",
+      "summary": "Mysore under Hyder Ali fights the British East India Company and its shifting allies.",
+      "detail": "The Treaty of Madras in 1769 restored captured territories and included a mutual-defence commitment. The treaty did not end the rivalry.",
+      "people": [
+        "Hyder Ali"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1770,
+      "dateLabel": "1769–1773; famine peak 1770",
+      "category": "resistance",
+      "title": "Bengal famine",
+      "summary": "A severe famine devastates Bengal during Company revenue administration; estimates of mortality vary widely.",
+      "detail": "The famine followed crop failure and was worsened by economic and administrative conditions. Population-loss estimates are uncertain and should not be treated as a precise count.",
+      "people": [
+        "Company Bengal administration"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1773,
+      "dateLabel": "1773",
+      "category": "reform",
+      "title": "Regulating Act creates the Governor-General of Bengal",
+      "summary": "The British Parliament passes the Regulating Act, creating a Governor-General of the Presidency of Fort William and a Supreme Court at Calcutta.",
+      "detail": "Warren Hastings became the first Governor-General of Bengal. The Act marked a major step in parliamentary oversight of Company government.",
+      "people": [
+        "Warren Hastings"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1775,
+      "dateLabel": "1775–1782",
+      "category": "war",
+      "title": "First Anglo-Maratha War",
+      "summary": "The Company and the Maratha Confederacy fight over succession and influence in western India.",
+      "detail": "The Treaty of Salbai in 1782 restored peace and recognised Madhavrao II as Peshwa. Maratha power remained substantial after the war.",
+      "people": [
+        "Madhavrao II",
+        "Raghunath Rao",
+        "Mahadji Shinde"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1780,
+      "dateLabel": "1780–1784",
+      "category": "war",
+      "title": "Second Anglo-Mysore War",
+      "summary": "Hyder Ali and later Tipu Sultan fight the Company and its allies across southern India.",
+      "detail": "The war ended with the Treaty of Mangalore in 1784, restoring much of the pre-war position. It was a major setback to the Company's efforts to dominate Mysore.",
+      "people": [
+        "Hyder Ali",
+        "Tipu Sultan",
+        "Eyre Coote"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1784,
+      "dateLabel": "11 March 1784",
+      "category": "war",
+      "title": "Treaty of Mangalore",
+      "summary": "Tipu Sultan and the East India Company conclude the treaty ending the Second Anglo-Mysore War.",
+      "detail": "The agreement restored territories and prisoners. It is notable as a negotiated settlement between Mysore and the Company.",
+      "people": [
+        "Tipu Sultan"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1790,
+      "dateLabel": "1790–1792",
+      "category": "war",
+      "title": "Third Anglo-Mysore War",
+      "summary": "The Company, the Marathas and Hyderabad fight Mysore after Tipu Sultan attacks Travancore, a British ally.",
+      "detail": "The war ended with the Treaty of Seringapatam in 1792, under which Tipu ceded territory and paid an indemnity.",
+      "people": [
+        "Tipu Sultan",
+        "Charles Cornwallis"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1793,
+      "dateLabel": "1793",
+      "category": "reform",
+      "title": "Permanent Settlement in Bengal",
+      "summary": "The Company introduces a land-revenue system that fixes the revenue demand on zamindars in Bengal and adjoining areas.",
+      "detail": "The arrangement reshaped landholding and rural revenue relations. Its long-term effects varied by region and are debated by historians.",
+      "people": [
+        "Charles Cornwallis"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1798,
+      "dateLabel": "1798",
+      "category": "company",
+      "title": "Wellesley becomes Governor-General",
+      "summary": "Richard Wellesley takes office and pursues an assertive policy of subsidiary alliances.",
+      "detail": "The policy expanded Company influence over Indian states by tying rulers to British military and diplomatic arrangements.",
+      "people": [
+        "Richard Wellesley"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1799,
+      "dateLabel": "4 May 1799",
+      "category": "war",
+      "title": "Fourth Anglo-Mysore War; fall of Seringapatam",
+      "summary": "Company-led forces storm Seringapatam; Tipu Sultan is killed and Mysore's political order is remade.",
+      "detail": "The war ended the independent military challenge posed by Tipu's Mysore. The kingdom was restored in reduced form under the Wodeyar dynasty, with Company influence dominant.",
+      "people": [
+        "Tipu Sultan",
+        "Arthur Wellesley",
+        "Harris"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1802,
+      "dateLabel": "31 December 1802",
+      "category": "war",
+      "title": "Treaty of Bassein",
+      "summary": "Peshwa Baji Rao II signs a subsidiary treaty with the Company.",
+      "detail": "The treaty provoked opposition among Maratha chiefs and helped trigger the Second Anglo-Maratha War.",
+      "people": [
+        "Baji Rao II",
+        "Arthur Wellesley"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1803,
+      "dateLabel": "1803–1805",
+      "category": "war",
+      "title": "Second Anglo-Maratha War",
+      "summary": "The Company fights major Maratha powers, including the Scindias and Bhonsles, after the Treaty of Bassein.",
+      "detail": "British victories at Assaye, Delhi and Laswari expanded Company control, but the campaign did not end Maratha resistance.",
+      "people": [
+        "Arthur Wellesley",
+        "Daulat Rao Scindia",
+        "Raghoji II Bhonsle"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1806,
+      "dateLabel": "10 July 1806",
+      "category": "resistance",
+      "title": "Vellore Mutiny",
+      "summary": "Indian sepoys at Vellore revolt against new military regulations and associated cultural grievances.",
+      "detail": "The uprising was suppressed within a day. It preceded the 1857 revolt and is studied as an important early military rebellion.",
+      "people": [
+        "Sepoys of the Madras Army"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1814,
+      "dateLabel": "1814–1816",
+      "category": "war",
+      "title": "Anglo-Nepalese War",
+      "summary": "The Company and the Kingdom of Nepal fight over frontier disputes and competing claims in the Himalayan region.",
+      "detail": "The Treaty of Sugauli in 1816 fixed a new boundary and required Nepal to accept a British resident. Nepal retained its sovereignty.",
+      "people": [
+        "Amar Singh Thapa",
+        "David Ochterlony"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1817,
+      "dateLabel": "2 April 1817; wider uprising in 1817",
+      "category": "resistance",
+      "title": "Paika Rebellion in Khurda",
+      "summary": "Paikas and local allies rise against Company rule in Odisha amid land, revenue and political grievances.",
+      "detail": "Bakshi Jagabandhu became a central leader. The rebellion was suppressed, but it remains an important episode of regional resistance.",
+      "people": [
+        "Bakshi Jagabandhu"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1817,
+      "dateLabel": "1817–1818",
+      "category": "war",
+      "title": "Third Anglo-Maratha War",
+      "summary": "The Company fights the Peshwa and several Maratha chiefs, bringing the Peshwa's rule to an end.",
+      "detail": "The war dismantled the Maratha Confederacy as a major political power. Several princely states remained under British paramountcy.",
+      "people": [
+        "Baji Rao II",
+        "Hastings"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1824,
+      "dateLabel": "1824–1826",
+      "category": "war",
+      "title": "First Anglo-Burmese War",
+      "summary": "The Company fights the Burmese Konbaung kingdom over frontier expansion and influence in the northeast.",
+      "detail": "The Treaty of Yandabo (1826) ended the war and imposed territorial cessions and an indemnity on Burma.",
+      "people": [
+        "Bodawpaya dynasty"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1826,
+      "dateLabel": "24 February 1826",
+      "category": "war",
+      "title": "Treaty of Yandabo",
+      "summary": "The treaty ends the First Anglo-Burmese War.",
+      "detail": "Burma ceded Arakan and Tenasserim and agreed to other terms. The war was costly for the Company and reshaped the eastern frontier.",
+      "people": [],
+      "sourceIds": []
+    },
+    {
+      "year": 1833,
+      "dateLabel": "1833",
+      "category": "reform",
+      "title": "Charter Act ends the Company's commercial role in India",
+      "summary": "Parliament removes the Company's remaining commercial functions in India and centralises legislative authority.",
+      "detail": "The Company continued as an administrative instrument until the transfer of government in 1858; its formal dissolution came later, in 1874.",
+      "people": [
+        "William Bentinck"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1835,
+      "dateLabel": "1835",
+      "category": "reform",
+      "title": "English Education Minute and policy debate",
+      "summary": "Thomas Babington Macaulay's Minute influences the Company's decision to fund English-language education.",
+      "detail": "The measure was part of a wider, contested education policy shift. Indigenous and vernacular learning continued, and later policy evolved.",
+      "people": [
+        "Thomas Babington Macaulay",
+        "William Bentinck"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1839,
+      "dateLabel": "1839–1842",
+      "category": "war",
+      "title": "First Anglo-Afghan War",
+      "summary": "A British Indian army invades Afghanistan to replace Dost Mohammad Khan with Shah Shuja.",
+      "detail": "The occupation of Kabul collapsed amid revolt; the retreat from Kabul in 1842 was catastrophic. The war ended with the British withdrawal and Shah Shuja's death.",
+      "people": [
+        "Dost Mohammad Khan",
+        "Shah Shuja",
+        "William Elphinstone"
+      ],
+      "sourceIds": [
+        "iranica"
+      ]
+    },
+    {
+      "year": 1843,
+      "dateLabel": "1843",
+      "category": "war",
+      "title": "Conquest and annexation of Sindh",
+      "summary": "Company forces defeat the Talpur rulers of Sindh and annex the region.",
+      "detail": "Charles Napier's campaigns at Miani and Dubbo were decisive. The annexation extended Company rule westward.",
+      "people": [
+        "Charles Napier",
+        "Talpur rulers"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1845,
+      "dateLabel": "1845–1846",
+      "category": "war",
+      "title": "First Anglo-Sikh War",
+      "summary": "The Company and the Sikh Empire fight across the Sutlej frontier.",
+      "detail": "The Treaty of Lahore in 1846 imposed territorial and political changes on the Sikh state, which remained under a British resident and regency.",
+      "people": [
+        "Maharaja Duleep Singh",
+        "Hugh Gough",
+        "Lal Singh"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1848,
+      "dateLabel": "1848–1849",
+      "category": "war",
+      "title": "Second Anglo-Sikh War",
+      "summary": "A revolt in Multan expands into a wider conflict between the Company and the Sikh Empire.",
+      "detail": "The Company's victory led to the annexation of Punjab in 1849.",
+      "people": [
+        "Sher Singh Attariwalla",
+        "Hugh Gough"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1852,
+      "dateLabel": "1852",
+      "category": "war",
+      "title": "Second Anglo-Burmese War",
+      "summary": "The Company fights Burma and annexes Pegu (Lower Burma).",
+      "detail": "The conflict deepened British expansion into Burma, though Upper Burma remained independent until the third war in 1885.",
+      "people": [],
+      "sourceIds": []
+    },
+    {
+      "year": 1856,
+      "dateLabel": "1856",
+      "category": "company",
+      "title": "Awadh is annexed",
+      "summary": "The Company annexes Awadh (Oudh), citing alleged misgovernment.",
+      "detail": "The annexation angered sections of the court, landed elite and military households. It became one of the grievances feeding the 1857 uprising.",
+      "people": [
+        "Wajid Ali Shah",
+        "Lord Dalhousie"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1857,
+      "dateLabel": "29 March 1857",
+      "category": "resistance",
+      "title": "Mangal Pandey's attack at Barrackpore",
+      "summary": "Sepoy Mangal Pandey attacks British officers at Barrackpore; he is arrested and later executed.",
+      "detail": "The episode became an early symbol of the 1857 uprising. The rebellion's causes were wider than the cartridge controversy and differed across regions.",
+      "people": [
+        "Mangal Pandey"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1857,
+      "dateLabel": "10 May 1857",
+      "category": "resistance",
+      "title": "Revolt begins at Meerut",
+      "summary": "Sepoys at Meerut rebel and march towards Delhi, where Bahadur Shah Zafar becomes a symbolic figurehead.",
+      "detail": "The uprising spread unevenly across north and central India and involved soldiers, rulers, peasants and townspeople with varied aims. It was suppressed by 1858.",
+      "people": [
+        "Bahadur Shah Zafar",
+        "Rani Lakshmibai",
+        "Begum Hazrat Mahal",
+        "Nana Sahib",
+        "Kunwar Singh",
+        "Tantia Tope",
+        "Bakht Khan"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1858,
+      "dateLabel": "2 August and 1 November 1858",
+      "category": "reform",
+      "title": "Government of India Act and Queen's Proclamation",
+      "summary": "The Act receives royal assent on 2 August; the Proclamation announcing Crown government is issued on 1 November.",
+      "detail": "Company government ended and authority was transferred to the British Crown. Charles Canning became the first Viceroy and Governor-General under the new arrangement.",
+      "people": [
+        "Queen Victoria",
+        "Charles Canning"
+      ],
+      "sourceIds": [
+        "goiAct",
+        "parliamentCompany"
+      ]
+    },
+    {
+      "year": 1861,
+      "dateLabel": "1861",
+      "category": "reform",
+      "title": "Indian Councils Act and High Courts Act",
+      "summary": "The Crown-era administration introduces new council arrangements and establishes High Courts in the presidencies.",
+      "detail": "These laws expanded the formal institutions of the Raj, though representative participation remained limited.",
+      "people": [
+        "Charles Canning"
+      ],
+      "sourceIds": [
+        "raj"
+      ]
+    },
+    {
+      "year": 1876,
+      "dateLabel": "1876",
+      "category": "reform",
+      "title": "Royal Titles Act",
+      "summary": "The British Parliament authorises the title Empress of India for Queen Victoria.",
+      "detail": "The title formalised imperial symbolism; it did not create a new Indian representative institution.",
+      "people": [
+        "Queen Victoria",
+        "Lord Lytton"
+      ],
+      "sourceIds": [
+        "raj"
+      ]
+    },
+    {
+      "year": 1878,
+      "dateLabel": "1878–1880",
+      "category": "war",
+      "title": "Second Anglo-Afghan War",
+      "summary": "British forces invade Afghanistan after tensions over foreign influence and diplomatic access.",
+      "detail": "The Treaty of Gandamak in 1879 gave Britain influence over Afghan foreign relations. Fighting resumed after the Afghan ruler was challenged; the war concluded in 1880.",
+      "people": [
+        "Sher Ali Khan",
+        "Abdur Rahman Khan",
+        "Frederick Roberts"
+      ],
+      "sourceIds": [
+        "iranica"
+      ]
+    },
+    {
+      "year": 1885,
+      "dateLabel": "28 December 1885",
+      "category": "congress",
+      "title": "First session of the Indian National Congress",
+      "summary": "Delegates meet in Bombay under the presidency of Womesh Chunder Bonnerjee.",
+      "detail": "The Congress began as a platform for political discussion and petitions; over time it became a central organisation in the freedom movement, with changing strategies and constituencies.",
+      "people": [
+        "Womesh Chunder Bonnerjee",
+        "A. O. Hume"
+      ],
+      "sourceIds": [
+        "inc",
+        "ignca"
+      ]
+    },
+    {
+      "year": 1885,
+      "dateLabel": "1885",
+      "category": "war",
+      "title": "Third Anglo-Burmese War",
+      "summary": "British forces invade Upper Burma and depose King Thibaw.",
+      "detail": "Upper Burma was annexed in 1886. Burma was administered as part of British India until it became a separate colony in 1937.",
+      "people": [
+        "Thibaw Min"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1891,
+      "dateLabel": "1891",
+      "category": "war",
+      "title": "Anglo-Manipur War",
+      "summary": "A succession crisis in Manipur leads to armed conflict with British forces.",
+      "detail": "The British victory resulted in the annexation of Manipur's administration under a British political arrangement; the kingdom continued under a ruler.",
+      "people": [
+        "Tikendrajit Singh",
+        "Kulachandra Singh"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1905,
+      "dateLabel": "16 October 1905",
+      "category": "mass",
+      "title": "Partition of Bengal takes effect; Swadeshi expands",
+      "summary": "The Curzon government's partition of Bengal takes effect, prompting boycott, indigenous industry and public mobilisation.",
+      "detail": "The Swadeshi movement drew in students, educators, workers, women and political organisers. The partition was annulled in 1911.",
+      "people": [
+        "Lord Curzon",
+        "Surendranath Banerjea",
+        "Rabindranath Tagore",
+        "Aurobindo Ghose"
+      ],
+      "sourceIds": [
+        "inc"
+      ]
+    },
+    {
+      "year": 1906,
+      "dateLabel": "30 December 1906",
+      "category": "congress",
+      "title": "All-India Muslim League is founded",
+      "summary": "The Muslim League is founded at Dacca during a meeting of Muslim leaders.",
+      "detail": "Its political aims and relationship with other organisations changed over the following decades; it became a principal participant in the 1940s constitutional negotiations.",
+      "people": [
+        "Nawab Salimullah",
+        "Aga Khan III"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1907,
+      "dateLabel": "1907",
+      "category": "congress",
+      "title": "Congress split at Surat",
+      "summary": "Differences between the so-called Moderates and Extremists culminate in a split at the Surat session.",
+      "detail": "The split reflected debates over political methods, leadership and the pace of the national movement.",
+      "people": [
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1908,
+      "dateLabel": "30 April 1908",
+      "category": "revolution",
+      "title": "Muzaffarpur bomb attack",
+      "summary": "Khudiram Bose and Prafulla Chaki throw a bomb at a carriage believed to carry magistrate Kingsford; two British women are killed.",
+      "detail": "Kingsford was not in the carriage. Bose was tried and executed; Chaki died by suicide after being pursued. The episode is a stark reminder that revolutionary violence could also kill unintended victims.",
+      "people": [
+        "Khudiram Bose",
+        "Prafulla Chaki"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1909,
+      "dateLabel": "1909",
+      "category": "reform",
+      "title": "Indian Councils Act (Morley–Minto reforms)",
+      "summary": "The Act expands legislative councils and introduces separate electorates for Muslims.",
+      "detail": "It widened formal representation while retaining strong executive control. Its effects and political meaning were contested among Indian leaders.",
+      "people": [
+        "John Morley",
+        "Lord Minto II"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1911,
+      "dateLabel": "12 December 1911",
+      "category": "reform",
+      "title": "Bengal partition annulled; capital shift announced",
+      "summary": "At the Delhi Durbar, the British government announces the annulment of Bengal's partition and the transfer of the imperial capital from Calcutta to Delhi.",
+      "detail": "The reorganisation took effect over the next few years; New Delhi was formally inaugurated as the capital in 1931.",
+      "people": [
+        "King George V",
+        "Lord Hardinge II"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1912,
+      "dateLabel": "23 December 1912",
+      "category": "revolution",
+      "title": "Delhi-Lahore Conspiracy attack",
+      "summary": "A bomb is thrown at the ceremonial procession of Viceroy Lord Hardinge in Delhi.",
+      "detail": "The plot connected underground revolutionary networks. Hardinge was injured; investigations led to trials and executions.",
+      "people": [
+        "Rash Behari Bose",
+        "Basanta Kumar Biswas",
+        "Lord Hardinge II"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1913,
+      "dateLabel": "1913",
+      "category": "revolution",
+      "title": "Ghadar movement organised overseas",
+      "summary": "Indian migrants and political exiles organise the Ghadar movement in North America, publishing a revolutionary newspaper and advocating an uprising.",
+      "detail": "The network linked expatriate communities with anti-colonial activism in India. Its 1915 plans were disrupted by arrests and surveillance.",
+      "people": [
+        "Lala Har Dayal",
+        "Kartar Singh Sarabha",
+        "Sohan Singh Bhakna"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1914,
+      "dateLabel": "23 May 1914; 29 September 1914",
+      "category": "resistance",
+      "title": "Komagata Maru voyage and Budge Budge incident",
+      "summary": "The Komagata Maru reaches Vancouver; after being denied entry, it returns to India, where a confrontation occurs at Budge Budge near Calcutta.",
+      "detail": "The incident exposed racial exclusion in imperial migration policy and became a major event in the Ghadar-era diaspora story.",
+      "people": [
+        "Gurdit Singh"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1915,
+      "dateLabel": "9 January 1915",
+      "category": "mass",
+      "title": "M. K. Gandhi returns to India",
+      "summary": "Gandhi returns from South Africa and begins a period of travel and political learning in India.",
+      "detail": "His subsequent campaigns drew on satyagraha, but the freedom movement remained plural, with constitutional, socialist, revolutionary, peasant, labour and regional currents.",
+      "people": [
+        "M. K. Gandhi"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "gportal"
+      ]
+    },
+    {
+      "year": 1916,
+      "dateLabel": "1916",
+      "category": "congress",
+      "title": "Home Rule Leagues and Lucknow Pact",
+      "summary": "Bal Gangadhar Tilak and Annie Besant organise Home Rule Leagues; Congress and the Muslim League reach the Lucknow Pact.",
+      "detail": "The year brought renewed political cooperation and demands for self-government, though disagreements about representation and strategy continued.",
+      "people": [
+        "Bal Gangadhar Tilak",
+        "Annie Besant",
+        "Muhammad Ali Jinnah"
+      ],
+      "sourceIds": [
+        "inc"
+      ]
+    },
+    {
+      "year": 1917,
+      "dateLabel": "April–June 1917",
+      "category": "mass",
+      "title": "Champaran Satyagraha",
+      "summary": "Gandhi intervenes in disputes over indigo cultivation and planter coercion in Bihar.",
+      "detail": "The campaign helped establish Gandhi as a national political figure and was shaped by local cultivators, lawyers and organisers, including Raj Kumar Shukla.",
+      "people": [
+        "M. K. Gandhi",
+        "Raj Kumar Shukla",
+        "Rajendra Prasad"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "gportal"
+      ]
+    },
+    {
+      "year": 1918,
+      "dateLabel": "1918",
+      "category": "mass",
+      "title": "Kheda Satyagraha and Ahmedabad mill strike",
+      "summary": "Campaigns over land revenue in Kheda and wages in Ahmedabad draw Gandhi and other organisers into local struggles.",
+      "detail": "These actions illustrate how the movement connected national politics with specific agrarian and labour grievances.",
+      "people": [
+        "M. K. Gandhi",
+        "Vallabhbhai Patel",
+        "Anasuya Sarabhai"
+      ],
+      "sourceIds": [
+        "gandhi"
+      ]
+    },
+    {
+      "year": 1919,
+      "dateLabel": "18 March 1919",
+      "category": "reform",
+      "title": "Rowlatt Act receives assent",
+      "summary": "The Anarchical and Revolutionary Crimes Act extends wartime emergency powers into peacetime.",
+      "detail": "Its passage prompted widespread protest and Gandhi's first all-India satyagraha campaign.",
+      "people": [
+        "M. K. Gandhi",
+        "Lord Chelmsford"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "gportal"
+      ]
+    },
+    {
+      "year": 1919,
+      "dateLabel": "13 April 1919",
+      "category": "resistance",
+      "title": "Jallianwala Bagh massacre",
+      "summary": "Troops under Brigadier-General Reginald Dyer fire on a large gathering in Amritsar.",
+      "detail": "The firing killed and wounded many people. Official and other estimates differ; the episode became a turning point in public opposition to colonial rule.",
+      "people": [
+        "Reginald Dyer",
+        "Saifuddin Kitchlew",
+        "Satyapal"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "gportal"
+      ]
+    },
+    {
+      "year": 1919,
+      "dateLabel": "4 May–3 June 1919",
+      "category": "war",
+      "title": "Third Anglo-Afghan War",
+      "summary": "Afghan forces cross the frontier and fighting breaks out with British India.",
+      "detail": "The conflict ended in an armistice and subsequent agreements that recognised Afghanistan's independence in conducting its foreign relations.",
+      "people": [
+        "Amanullah Khan"
+      ],
+      "sourceIds": [
+        "iranica"
+      ]
+    },
+    {
+      "year": 1920,
+      "dateLabel": "September–December 1920",
+      "category": "mass",
+      "title": "Non-Cooperation Movement adopted",
+      "summary": "Congress adopts non-cooperation, including the boycott of selected colonial institutions and promotion of swadeshi.",
+      "detail": "The movement brought broad participation but contained different local aims. It was suspended by Gandhi in 1922 after violence at Chauri Chaura.",
+      "people": [
+        "M. K. Gandhi",
+        "C. R. Das",
+        "Motilal Nehru"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "nehru"
+      ]
+    },
+    {
+      "year": 1921,
+      "dateLabel": "August–1922",
+      "category": "resistance",
+      "title": "Malabar/Moplah Rebellion",
+      "summary": "An uprising in Malabar combines agrarian grievances, anti-colonial mobilisation and communal violence.",
+      "detail": "The rebellion and its aftermath were complex and violent; accounts differ in emphasis. It should not be reduced to a single-cause narrative.",
+      "people": [
+        "Ali Musaliar",
+        "Variyamkunnath Kunjahammad Haji"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1922,
+      "dateLabel": "5 February 1922",
+      "category": "mass",
+      "title": "Chauri Chaura incident; Non-Cooperation suspended",
+      "summary": "A crowd in Chauri Chaura, United Provinces, sets a police station on fire, killing 22 policemen.",
+      "detail": "Gandhi suspends the national movement, arguing that it had moved away from non-violent discipline. Other leaders disagreed with the decision.",
+      "people": [
+        "M. K. Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "sourceIds": [
+        "gandhi",
+        "nehru"
+      ]
+    },
+    {
+      "year": 1922,
+      "dateLabel": "22–24 August 1922; rebellion to 1924",
+      "category": "resistance",
+      "title": "Manyam/Rampa Rebellion begins",
+      "summary": "Alluri Sitarama Raju and tribal fighters attack police stations in the Godavari Agency region.",
+      "detail": "The uprising grew from grievances over forest rules and colonial administration. Its participants used guerrilla tactics; Raju was captured and killed in May 1924.",
+      "people": [
+        "Alluri Sitarama Raju",
+        "Gam Gantam Dora",
+        "Gam Mallu Dora"
+      ],
+      "sourceIds": [
+        "rampa"
+      ]
+    },
+    {
+      "year": 1923,
+      "dateLabel": "January 1923",
+      "category": "congress",
+      "title": "Swaraj Party is formed",
+      "summary": "C. R. Das and Motilal Nehru organise the Swaraj Party to contest legislative councils and challenge colonial rule from within.",
+      "detail": "The party represented a strategic disagreement within Congress about participation in colonial institutions.",
+      "people": [
+        "C. R. Das",
+        "Motilal Nehru"
+      ],
+      "sourceIds": [
+        "inc"
+      ]
+    },
+    {
+      "year": 1925,
+      "dateLabel": "9 August 1925",
+      "category": "revolution",
+      "title": "Kakori train action",
+      "summary": "Hindustan Republican Association members stop a train near Kakori and seize government funds being transported.",
+      "detail": "The colonial prosecution led to death sentences and long imprisonments. The action helped make the HRA network widely known.",
+      "people": [
+        "Ram Prasad Bismil",
+        "Ashfaqulla Khan",
+        "Rajendra Lahiri",
+        "Roshan Singh",
+        "Chandrashekhar Azad"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1927,
+      "dateLabel": "8 November 1927",
+      "category": "reform",
+      "title": "Simon Commission appointed",
+      "summary": "The British government appoints a commission to review constitutional reforms in India, with no Indian member.",
+      "detail": "The all-British membership triggered the slogan “Simon Go Back” and protests across India when the commission arrived in 1928.",
+      "people": [
+        "Sir John Simon"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1928,
+      "dateLabel": "30 October–17 November 1928",
+      "category": "resistance",
+      "title": "Lala Lajpat Rai is injured during a Simon Commission protest",
+      "summary": "Police lathi-charge a demonstration in Lahore; Lajpat Rai is injured and dies on 17 November.",
+      "detail": "Revolutionaries held the police action responsible and planned retaliation. The causal link between the injuries and death has been debated in historical accounts.",
+      "people": [
+        "Lala Lajpat Rai",
+        "Bhagat Singh",
+        "Chandrashekhar Azad"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1928,
+      "dateLabel": "17 December 1928",
+      "category": "revolution",
+      "title": "Saunders is killed in Lahore",
+      "summary": "Revolutionaries kill assistant superintendent J. P. Saunders, mistaking the action as retaliation for the lathi-charge on Lajpat Rai.",
+      "detail": "Bhagat Singh, Rajguru and associates were involved in the conspiracy; the event led to the Lahore Conspiracy Case.",
+      "people": [
+        "Bhagat Singh",
+        "Shivaram Rajguru",
+        "Chandrashekhar Azad",
+        "Sukhdev"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1929,
+      "dateLabel": "8 April 1929",
+      "category": "revolution",
+      "title": "Central Legislative Assembly bombing",
+      "summary": "Bhagat Singh and Batukeshwar Dutt throw low-intensity bombs in the Central Legislative Assembly and distribute leaflets before surrendering.",
+      "detail": "The action was intended as a political protest; the bombs caused no deaths. The trial gave the revolutionaries a public platform for their ideas.",
+      "people": [
+        "Bhagat Singh",
+        "Batukeshwar Dutt"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1929,
+      "dateLabel": "29 December 1929",
+      "category": "congress",
+      "title": "Lahore Congress adopts Purna Swaraj",
+      "summary": "The Congress session at Lahore adopts complete independence as its goal; Jawaharlal Nehru presides.",
+      "detail": "26 January 1930 was marked as Independence Day. The date later informed the choice of 26 January for the Constitution to come into effect in 1950.",
+      "people": [
+        "Jawaharlal Nehru",
+        "M. K. Gandhi"
+      ],
+      "sourceIds": [
+        "inc",
+        "nehru"
+      ]
+    },
+    {
+      "year": 1930,
+      "dateLabel": "12 March–6 April 1930",
+      "category": "mass",
+      "title": "Salt March reaches Dandi",
+      "summary": "Gandhi and 78 original marchers leave Sabarmati Ashram on 12 March; Gandhi breaks the salt law at Dandi on 6 April.",
+      "detail": "The march became a catalyst for civil disobedience across India. Local leaders and participants organised parallel actions in many regions.",
+      "people": [
+        "M. K. Gandhi",
+        "Sarojini Naidu",
+        "Abbas Tyabji"
+      ],
+      "sourceIds": [
+        "dandi",
+        "dandiGov",
+        "gportal"
+      ]
+    },
+    {
+      "year": 1930,
+      "dateLabel": "18 April 1930",
+      "category": "revolution",
+      "title": "Chittagong Armoury Raid",
+      "summary": "Surya Sen leads a group that seizes police and auxiliary-force armouries and disrupts communications in Chittagong.",
+      "detail": "The group failed to find ammunition but briefly disrupted colonial communications. Women including Pritilata Waddedar and Kalpana Dutta later played roles in the network.",
+      "people": [
+        "Surya Sen",
+        "Ganesh Ghosh",
+        "Lokenath Bal",
+        "Pritilata Waddedar",
+        "Kalpana Dutta",
+        "Ananta Singh"
+      ],
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ]
+    },
+    {
+      "year": 1930,
+      "dateLabel": "November 1930",
+      "category": "reform",
+      "title": "First Round Table Conference opens",
+      "summary": "British and Indian representatives meet in London to discuss constitutional reforms; Congress does not attend this first session.",
+      "detail": "The conferences formed part of a longer constitutional process that culminated in the Government of India Act 1935.",
+      "people": [
+        "Ramsay MacDonald",
+        "B. R. Ambedkar"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1931,
+      "dateLabel": "5 March 1931",
+      "category": "reform",
+      "title": "Gandhi–Irwin Pact",
+      "summary": "Gandhi and Viceroy Lord Irwin agree to suspend civil disobedience and enable Congress participation in the Second Round Table Conference.",
+      "detail": "The pact was a negotiated pause, not a transfer of power. Its terms generated debate inside the national movement.",
+      "people": [
+        "M. K. Gandhi",
+        "Lord Irwin"
+      ],
+      "sourceIds": [
+        "gandhi"
+      ]
+    },
+    {
+      "year": 1931,
+      "dateLabel": "23 March 1931",
+      "category": "revolution",
+      "title": "Bhagat Singh, Rajguru and Sukhdev are executed",
+      "summary": "The three revolutionaries are hanged in Lahore Central Jail after conviction in the Lahore Conspiracy Case.",
+      "detail": "Their execution became a major moment in public memory. The three had distinct roles in the wider revolutionary network.",
+      "people": [
+        "Bhagat Singh",
+        "Shivaram Rajguru",
+        "Sukhdev"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1931,
+      "dateLabel": "31 March 1931",
+      "category": "congress",
+      "title": "Karachi Congress adopts a resolution on rights and economic policy",
+      "summary": "The Congress session debates fundamental rights and national economic policy.",
+      "detail": "The resolution is a significant document in the movement's discussion of civil liberties, labour and the shape of a future India.",
+      "people": [
+        "Vallabhbhai Patel",
+        "Jawaharlal Nehru"
+      ],
+      "sourceIds": [
+        "inc"
+      ]
+    },
+    {
+      "year": 1932,
+      "dateLabel": "24 September 1932",
+      "category": "reform",
+      "title": "Poona Pact",
+      "summary": "B. R. Ambedkar and other leaders reach an agreement on electoral representation for the Depressed Classes after Gandhi's fast in Yerwada prison.",
+      "detail": "The Pact replaced separate electorates proposed under the Communal Award with reserved seats in joint electorates. Its effects remain a subject of historical debate.",
+      "people": [
+        "B. R. Ambedkar",
+        "M. K. Gandhi"
+      ],
+      "sourceIds": [
+        "gandhi"
+      ]
+    },
+    {
+      "year": 1935,
+      "dateLabel": "2 August 1935",
+      "category": "reform",
+      "title": "Government of India Act 1935 receives royal assent",
+      "summary": "The Act provides for provincial autonomy and proposes a federation that never fully comes into operation.",
+      "detail": "The Act became the constitutional framework for provincial elections in 1937 and influenced later constitutional arrangements.",
+      "people": [
+        "British Parliament"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1937,
+      "dateLabel": "1937",
+      "category": "reform",
+      "title": "Provincial elections under the 1935 Act",
+      "summary": "Elections are held under the new constitutional framework and Congress ministries take office in several provinces.",
+      "detail": "Provincial government offered limited opportunities for self-government while major powers remained with the colonial centre.",
+      "people": [
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1939,
+      "dateLabel": "3 September 1939",
+      "category": "reform",
+      "title": "India is declared at war in World War II",
+      "summary": "The Viceroy announces that India is at war with Germany without consulting elected Indian representatives.",
+      "detail": "The decision intensified disputes over India's constitutional status and the conditions under which Indian resources and troops would support the war.",
+      "people": [
+        "Lord Linlithgow",
+        "M. K. Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1940,
+      "dateLabel": "23 March 1940",
+      "category": "congress",
+      "title": "Lahore Resolution adopted by the Muslim League",
+      "summary": "The Muslim League adopts a resolution calling for independent states in Muslim-majority areas of north-western and eastern India.",
+      "detail": "The text did not use the word Pakistan; its interpretation and later political development require attention to the changing context of the 1940s.",
+      "people": [
+        "Muhammad Ali Jinnah"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1940,
+      "dateLabel": "31 July 1940",
+      "category": "revolution",
+      "title": "Udham Singh is executed in London",
+      "summary": "Udham Singh is hanged after being convicted for the 1940 killing of Michael O'Dwyer, former Lieutenant-Governor of Punjab.",
+      "detail": "Singh said his action was connected to the Jallianwala Bagh massacre. His actions are usually situated in the revolutionary strand of anti-colonial politics.",
+      "people": [
+        "Udham Singh",
+        "Michael O'Dwyer"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1942,
+      "dateLabel": "March–April 1942",
+      "category": "reform",
+      "title": "Cripps Mission visits India",
+      "summary": "Sir Stafford Cripps brings proposals for post-war constitutional change, which major Indian political groups do not accept.",
+      "detail": "The failure of the negotiations contributed to the political crisis that preceded the Quit India resolution.",
+      "people": [
+        "Stafford Cripps",
+        "M. K. Gandhi",
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1942,
+      "dateLabel": "8–9 August 1942",
+      "category": "mass",
+      "title": "Quit India resolution and mass arrests",
+      "summary": "The All India Congress Committee adopts the Quit India resolution in Bombay on 8 August; senior leaders are arrested the next day.",
+      "detail": "The movement spread through strikes, demonstrations, underground networks and local parallel governments. Forms of action and intensity varied widely by region.",
+      "people": [
+        "M. K. Gandhi",
+        "Aruna Asaf Ali",
+        "Jayaprakash Narayan",
+        "Usha Mehta"
+      ],
+      "sourceIds": [
+        "nehru",
+        "gandhi"
+      ]
+    },
+    {
+      "year": 1943,
+      "dateLabel": "21 October 1943",
+      "category": "revolution",
+      "title": "Provisional Government of Azad Hind proclaimed",
+      "summary": "Subhas Chandra Bose announces the Provisional Government of Free India in Singapore.",
+      "detail": "The government was associated with the Indian National Army and Axis powers during World War II. Its military campaign and political significance remain subjects of historical analysis.",
+      "people": [
+        "Subhas Chandra Bose",
+        "Rash Behari Bose"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1943,
+      "dateLabel": "1943",
+      "category": "resistance",
+      "title": "Bengal famine",
+      "summary": "A catastrophic famine strikes Bengal during World War II, causing mass death and displacement.",
+      "detail": "The causes include wartime disruption, inflation, market failures and policy decisions; historians debate the relative weight of contributing factors.",
+      "people": [
+        "Bengal provincial administration",
+        "British Indian government"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1944,
+      "dateLabel": "March–July 1944",
+      "category": "war",
+      "title": "INA campaign reaches the Imphal–Kohima frontier",
+      "summary": "Japanese and INA forces advance into northeast India and fight Allied forces around Imphal and Kohima.",
+      "detail": "The campaign ended in defeat for the invading forces. INA members later faced trials that drew wide attention in India.",
+      "people": [
+        "Subhas Chandra Bose",
+        "Shah Nawaz Khan",
+        "Allied and Japanese commanders"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1945,
+      "dateLabel": "November 1945",
+      "category": "reform",
+      "title": "INA trials begin at the Red Fort",
+      "summary": "The British Indian government puts officers of the Indian National Army on trial in Delhi.",
+      "detail": "The trials prompted broad public demonstrations and debate about loyalty, military service and independence.",
+      "people": [
+        "Shah Nawaz Khan",
+        "Prem Kumar Sahgal",
+        "Gurbaksh Singh Dhillon"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1946,
+      "dateLabel": "18 February 1946",
+      "category": "resistance",
+      "title": "Royal Indian Navy ratings' revolt begins",
+      "summary": "Ratings in Bombay strike over conditions and raise political demands; unrest spreads to other naval establishments.",
+      "detail": "The revolt was short-lived and involved complex political and labour grievances. It occurred amid wider unrest and negotiations over the transfer of power.",
+      "people": [
+        "Naval ratings",
+        "B. C. Dutt"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1946,
+      "dateLabel": "24 March–May 1946",
+      "category": "reform",
+      "title": "Cabinet Mission arrives",
+      "summary": "The British Cabinet Mission holds negotiations with Congress, the Muslim League and other representatives about a constitutional settlement.",
+      "detail": "Its plan proposed a united India with a weak centre and provincial groupings. The plan failed amid disagreements over its interpretation and implementation.",
+      "people": [
+        "Pethick-Lawrence",
+        "Stafford Cripps",
+        "A. V. Alexander"
+      ],
+      "sourceIds": [
+        "archives",
+        "ignca"
+      ]
+    },
+    {
+      "year": 1946,
+      "dateLabel": "16 August 1946",
+      "category": "resistance",
+      "title": "Direct Action Day and communal violence",
+      "summary": "The Muslim League observes Direct Action Day in Calcutta; severe communal violence follows and spreads in subsequent months.",
+      "detail": "The violence marked a grave escalation in communal conflict during the final phase of British rule. Events differed by locality and affected multiple communities.",
+      "people": [
+        "Muhammad Ali Jinnah",
+        "Huseyn Shaheed Suhrawardy"
+      ],
+      "sourceIds": [
+        "archives"
+      ]
+    },
+    {
+      "year": 1946,
+      "dateLabel": "2 September 1946",
+      "category": "reform",
+      "title": "Interim Government takes office",
+      "summary": "An interim government is formed at the centre, with Jawaharlal Nehru as Vice-President of the Executive Council.",
+      "detail": "The government operated within the colonial constitutional framework while negotiations over independence and partition continued.",
+      "people": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "Liaquat Ali Khan"
+      ],
+      "sourceIds": [
+        "nehru"
+      ]
+    },
+    {
+      "year": 1946,
+      "dateLabel": "9 December 1946",
+      "category": "reform",
+      "title": "Constituent Assembly meets for the first time",
+      "summary": "The Constituent Assembly convenes in New Delhi to begin work on a constitution.",
+      "detail": "The Assembly continued its work through the transfer of power and adopted the Constitution in November 1949, which came into force in January 1950.",
+      "people": [
+        "Sachchidananda Sinha",
+        "B. R. Ambedkar"
+      ],
+      "sourceIds": []
+    },
+    {
+      "year": 1947,
+      "dateLabel": "24 March 1947",
+      "category": "reform",
+      "title": "Lord Mountbatten becomes Viceroy",
+      "summary": "Louis Mountbatten assumes office with a mandate to oversee the transfer of power.",
+      "detail": "The accelerated timetable culminated in the June 3 Plan and the creation of India and Pakistan in August 1947.",
+      "people": [
+        "Lord Mountbatten"
+      ],
+      "sourceIds": [
+        "archives",
+        "archontology"
+      ]
+    },
+    {
+      "year": 1947,
+      "dateLabel": "3 June 1947",
+      "category": "reform",
+      "title": "3 June Plan announces partition and transfer of power",
+      "summary": "Mountbatten announces the plan accepted by key political leaders for the partition of British India and transfer of power.",
+      "detail": "The plan provided for the partition of Punjab and Bengal and the creation of the two Dominions. The decision was followed by extensive displacement and violence.",
+      "people": [
+        "Lord Mountbatten",
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "sourceIds": [
+        "archives"
+      ]
+    },
+    {
+      "year": 1947,
+      "dateLabel": "18 July 1947",
+      "category": "reform",
+      "title": "Indian Independence Act receives royal assent",
+      "summary": "The British Parliament passes the Act that provides for the creation of the independent Dominions of India and Pakistan.",
+      "detail": "The Act ended British parliamentary authority over British India and set the legal framework for the transfer of power. The princely states' position was addressed separately.",
+      "people": [
+        "Clement Attlee",
+        "Lord Mountbatten"
+      ],
+      "sourceIds": [
+        "iaAct"
+      ]
+    },
+    {
+      "year": 1947,
+      "dateLabel": "15 August 1947",
+      "category": "independence",
+      "title": "India becomes independent",
+      "summary": "India becomes an independent Dominion; Jawaharlal Nehru takes office as the first Prime Minister.",
+      "detail": "Independence followed a long and diverse struggle, including constitutional politics, mass movements, revolutionary activity, labour and peasant organising, military resistance and international developments. Partition accompanied the transfer.",
+      "people": [
+        "Jawaharlal Nehru",
+        "Lord Mountbatten",
+        "M. K. Gandhi",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "sourceIds": [
+        "iaAct",
+        "archives",
+        "nehru"
+      ]
+    },
+    {
+      "year": 1947,
+      "dateLabel": "17 August 1947",
+      "category": "independence",
+      "title": "Radcliffe boundary awards are published",
+      "summary": "The boundary commissions' awards for Punjab and Bengal are made public two days after India's Independence Day.",
+      "detail": "The delay meant that many people celebrated independence before learning which side of the new border their homes would fall on. Partition caused mass displacement and widespread violence.",
+      "people": [
+        "Cyril Radcliffe",
+        "Lord Mountbatten"
+      ],
+      "sourceIds": [
+        "archives"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bl",
+      "name": "British Library — East India Company archive",
+      "url": "https://searcharchives.bl.uk/catalog/032-000173250",
+      "note": "Company voyages, factories and trading settlements."
+    },
+    {
+      "id": "ie",
+      "name": "The Indian Express — English factory at Surat",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/english-factory-india-surat-british-9786883/lite/",
+      "note": "Hawkins, Surat and the early English trading foothold."
+    },
+    {
+      "id": "parliamentCompany",
+      "name": "UK Parliament — East India Company and Raj, 1785–1858",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/",
+      "note": "Company expansion, the 1857 rising and the transfer of power."
+    },
+    {
+      "id": "goiAct",
+      "name": "Government of India Act 1858 — legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/21-22/106/contents/enacted",
+      "note": "Primary legislation transferring government to the Crown."
+    },
+    {
+      "id": "raj",
+      "name": "UK Parliament — Government of the Raj, 1858–1914",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/",
+      "note": "Crown-era administration and legislative structures."
+    },
+    {
+      "id": "iaAct",
+      "name": "UK Parliament — Indian Independence Act 1947",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/collections1/collections2/1947-indian-independence-act/",
+      "note": "The Act, the two Dominions and the legal transfer."
+    },
+    {
+      "id": "archives",
+      "name": "UK National Archives — Partition of British India",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/",
+      "note": "The 3 June Plan, border announcement and partition context."
+    },
+    {
+      "id": "gandhi",
+      "name": "Gandhi Smriti — Chronology of Mahatma Gandhi",
+      "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi",
+      "note": "Dated chronology of Gandhi's work and the freedom movement."
+    },
+    {
+      "id": "gportal",
+      "name": "Gandhi Heritage Portal — Event chronology",
+      "url": "https://gandhiheritageportal.org/chronology/event-chronology-listing",
+      "note": "Primary-source-linked chronology and day-by-day records."
+    },
+    {
+      "id": "dandi",
+      "name": "Gandhi Heritage Portal — Salt Satyagraha background",
+      "url": "https://www.gandhiheritageportal.org/background-to-the-salt-satyagraha",
+      "note": "The decision, letter and start of the Salt March."
+    },
+    {
+      "id": "dandiGov",
+      "name": "Ministry of Culture — Dandi March",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/day-1-12th-march.htm",
+      "note": "Government of India account of the march, 12 March–5 April 1930."
+    },
+    {
+      "id": "inc",
+      "name": "Indian National Congress — Brief history",
+      "url": "https://inc.in/brief-history-of-congress",
+      "note": "The first session and later Congress milestones."
+    },
+    {
+      "id": "nehru",
+      "name": "Nehru Portal — Freedom Struggle",
+      "url": "https://nehruportal.nic.in/node/9",
+      "note": "Nehru's documented participation and chronology."
+    },
+    {
+      "id": "iranica",
+      "name": "Encyclopaedia Iranica — Anglo-Afghan Wars",
+      "url": "https://www.iranicaonline.org/articles/anglo-afghan-wars/",
+      "note": "Scholarly overview of all three Anglo-Afghan wars."
+    },
+    {
+      "id": "amrit",
+      "name": "Azadi Ka Amrit Mahotsav — Chittagong Armoury Raid",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2556=",
+      "note": "Ministry of Culture district repository entry."
+    },
+    {
+      "id": "rampa",
+      "name": "Press Information Bureau — Alluri Sitarama Raju",
+      "url": "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=148563",
+      "note": "Government of India account of the Manyam/Rampa rebellion."
+    },
+    {
+      "id": "archontology",
+      "name": "Archontology — British India viceroys and governors-general",
+      "url": "https://archontology.org/nations/british_india/00_1858_1947_gg.php",
+      "note": "Term dates, including acting office-holders."
+    },
+    {
+      "id": "ignca",
+      "name": "IGNCA — History of India (PDF)",
+      "url": "https://ignca.gov.in/Asi_data/46527.pdf",
+      "note": "Historical survey including the rise of the Congress."
+    },
+    {
+      "id": "nationalBookTrust",
+      "name": "National Book Trust — Hanged for Patriotism (PDF)",
+      "url": "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf",
+      "note": "Documentary account of the Chittagong revolutionary network."
+    }
+  ]
+}

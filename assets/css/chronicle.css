@@ -2002,3 +2002,17 @@ body{max-width:100vw;overflow-x:hidden;}
 body{font-family:Georgia,serif;max-width:680px;margin:2rem auto;padding:0 1.5rem;color:#1a1a1a;line-height:1.6;}
     h1{font-size:1.8rem;margin-bottom:.2rem;}h4{margin-top:1.6rem;color:#5a3d8a;}
     .src{margin-top:2rem;font-size:.85rem;color:#666;}
+/* ── Independence archive portals ── */
+.archive-portals{position:relative;z-index:2;max-width:1180px;width:92%;margin:1rem auto 3.5rem;padding:1.7rem;border:1px solid rgba(223,168,64,.2);border-radius:18px;background:linear-gradient(135deg,rgba(223,168,64,.055),rgba(139,32,32,.045)),rgba(10,11,15,.7)}
+.archive-portals .section-head{margin-bottom:1rem}
+.archive-portals-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.archive-portal{display:flex;flex-direction:column;gap:.45rem;padding:1.1rem;border:1px solid rgba(223,168,64,.18);border-radius:13px;background:rgba(255,255,255,.025);color:var(--bone);transition:transform .22s,border-color .22s,background .22s}
+.archive-portal:hover{transform:translateY(-3px);border-color:rgba(223,168,64,.6);background:rgba(223,168,64,.06);text-decoration:none}
+.archive-portal .ap-icon{color:var(--gold-b);font-size:1.5rem}
+.archive-portal .ap-title{font-family:'Cinzel',serif;font-weight:700;font-size:.86rem;color:var(--gold-p)}
+.archive-portal .ap-copy{font-size:.82rem;line-height:1.55;color:var(--bone-d)}
+.archive-portal .ap-link{font-family:'JetBrains Mono',monospace;font-size:.62rem;color:var(--teal-b);margin-top:.25rem}
+nav.nav-links{gap:clamp(.35rem,.75vw,1rem)}
+nav.nav-links a{font-size:clamp(.52rem,.57vw,.67rem)}
+@media(max-width:980px){nav.nav-links a[href="independence.html"],nav.nav-links a[href="revolutionaries.html"]{display:none}}
+@media(max-width:640px){.archive-portals{padding:1rem}.archive-portals-grid{grid-template-columns:1fr}}

@@ -1,0 +1,286 @@
+{
+  "administrators": [
+    {
+      "term": "1757–1760",
+      "name": "Robert Clive",
+      "office": "Governor of Bengal (Company)",
+      "note": "Company administration in Bengal expanded after Plassey."
+    },
+    {
+      "term": "1760–1765",
+      "name": "Henry Vansittart",
+      "office": "Governor of Bengal (Company)",
+      "note": "Served during the period leading to Buxar and the Diwani settlement."
+    },
+    {
+      "term": "1765–1767",
+      "name": "Robert Clive",
+      "office": "Governor of Bengal (Company)",
+      "note": "Returned to Bengal and implemented the dual system."
+    },
+    {
+      "term": "1767–1769",
+      "name": "Harry Verelst",
+      "office": "Governor of Bengal (Company)",
+      "note": "Company governor during a period of major revenue and administrative strain."
+    },
+    {
+      "term": "1769–1773",
+      "name": "John Cartier",
+      "office": "Governor of Bengal (Company)",
+      "note": "In office during the Bengal famine and the lead-up to parliamentary intervention."
+    },
+    {
+      "term": "1773–1785",
+      "name": "Warren Hastings",
+      "office": "Governor-General of Bengal",
+      "note": "First Governor-General under the Regulating Act of 1773."
+    },
+    {
+      "term": "1785–1786",
+      "name": "John Macpherson (acting)",
+      "office": "Governor-General of Bengal",
+      "note": "Acted after Hastings and before Cornwallis."
+    },
+    {
+      "term": "1786–1793",
+      "name": "Charles Cornwallis",
+      "office": "Governor-General of Bengal",
+      "note": "Associated with the Permanent Settlement of 1793."
+    },
+    {
+      "term": "1793–1798",
+      "name": "John Shore",
+      "office": "Governor-General of Bengal",
+      "note": "Later created Baron Teignmouth."
+    },
+    {
+      "term": "1798–1805",
+      "name": "Richard Wellesley",
+      "office": "Governor-General of Bengal/India",
+      "note": "Expanded Company influence through subsidiary alliances."
+    },
+    {
+      "term": "1805",
+      "name": "Charles Cornwallis (second term)",
+      "office": "Governor-General of Bengal",
+      "note": "Briefly returned to office in 1805 and died in India."
+    },
+    {
+      "term": "1805–1807",
+      "name": "George Barlow (acting)",
+      "office": "Governor-General of Bengal/India",
+      "note": "Acted between Cornwallis and Minto."
+    },
+    {
+      "term": "1807–1813",
+      "name": "Gilbert Elliot-Murray-Kynynmound (Minto I)",
+      "office": "Governor-General of Bengal/India",
+      "note": "Oversaw the Company during the Napoleonic era."
+    },
+    {
+      "term": "1813–1823",
+      "name": "Francis Rawdon-Hastings (Lord Hastings)",
+      "office": "Governor-General of Bengal/India",
+      "note": "Served during the Third Anglo-Maratha War."
+    },
+    {
+      "term": "1823–1828",
+      "name": "William Amherst",
+      "office": "Governor-General of India",
+      "note": "In office during the First Anglo-Burmese War."
+    },
+    {
+      "term": "1828–1835",
+      "name": "William Bentinck",
+      "office": "Governor-General of Bengal/India",
+      "note": "Associated with administrative and social reforms; the office title changed in the 1830s."
+    },
+    {
+      "term": "1835–1836",
+      "name": "Charles Metcalfe (acting)",
+      "office": "Governor-General of India",
+      "note": "Acting office-holder after Bentinck."
+    },
+    {
+      "term": "1836–1842",
+      "name": "George Eden (Lord Auckland)",
+      "office": "Governor-General of India",
+      "note": "In office during the First Anglo-Afghan War."
+    },
+    {
+      "term": "1842–1844",
+      "name": "Edward Law (Lord Ellenborough)",
+      "office": "Governor-General of India",
+      "note": "Oversaw the withdrawal from Afghanistan and the conquest of Sindh period."
+    },
+    {
+      "term": "1844–1848",
+      "name": "Henry Hardinge",
+      "office": "Governor-General of India",
+      "note": "In office during the First Anglo-Sikh War."
+    },
+    {
+      "term": "1848–1856",
+      "name": "James Andrew Broun-Ramsay (Lord Dalhousie)",
+      "office": "Governor-General of India",
+      "note": "Associated with annexation policies and major infrastructural expansion."
+    },
+    {
+      "term": "1856–1862",
+      "name": "Charles Canning",
+      "office": "Governor-General of India; first Viceroy from 1858",
+      "note": "Served through the 1857 uprising and the transfer from Company to Crown rule."
+    },
+    {
+      "term": "1862–1863",
+      "name": "James Bruce (Lord Elgin I)",
+      "office": "Viceroy and Governor-General",
+      "note": "Died while in office."
+    },
+    {
+      "term": "1863",
+      "name": "Robert Napier (acting)",
+      "office": "Viceroy and Governor-General",
+      "note": "Brief acting term."
+    },
+    {
+      "term": "1863–1864",
+      "name": "William Denison (acting)",
+      "office": "Viceroy and Governor-General",
+      "note": "Acted until John Lawrence took office."
+    },
+    {
+      "term": "1864–1869",
+      "name": "John Lawrence",
+      "office": "Viceroy and Governor-General",
+      "note": "Formerly Chief Commissioner of Punjab."
+    },
+    {
+      "term": "1869–1872",
+      "name": "Richard Bourke (Lord Mayo)",
+      "office": "Viceroy and Governor-General",
+      "note": "Assassinated at Port Blair in 1872."
+    },
+    {
+      "term": "1872",
+      "name": "John Strachey (acting)",
+      "office": "Viceroy and Governor-General",
+      "note": "Brief acting term following Mayo's death."
+    },
+    {
+      "term": "1872–1876",
+      "name": "Thomas Baring (Lord Northbrook)",
+      "office": "Viceroy and Governor-General",
+      "note": "Resigned in 1876."
+    },
+    {
+      "term": "1876–1880",
+      "name": "Edward Robert Lytton (Lord Lytton)",
+      "office": "Viceroy and Governor-General",
+      "note": "In office during the Second Anglo-Afghan War and the 1876 Delhi Durbar."
+    },
+    {
+      "term": "1880–1884",
+      "name": "George Robinson (Lord Ripon)",
+      "office": "Viceroy and Governor-General",
+      "note": "Introduced local-self-government reforms and repealed the Vernacular Press Act."
+    },
+    {
+      "term": "1884–1888",
+      "name": "Frederick Hamilton-Temple-Blackwood (Lord Dufferin)",
+      "office": "Viceroy and Governor-General",
+      "note": "In office when the Indian National Congress was founded."
+    },
+    {
+      "term": "1888–1894",
+      "name": "Henry Petty-Fitzmaurice (Lord Lansdowne)",
+      "office": "Viceroy and Governor-General",
+      "note": "Oversaw the Indian Councils Act 1892 period."
+    },
+    {
+      "term": "1894–1899",
+      "name": "Victor Bruce (Lord Elgin II)",
+      "office": "Viceroy and Governor-General",
+      "note": "Served during famine and plague crises."
+    },
+    {
+      "term": "1899–1905",
+      "name": "George Nathaniel Curzon",
+      "office": "Viceroy and Governor-General",
+      "note": "Partitioned Bengal in 1905."
+    },
+    {
+      "term": "1905–1910",
+      "name": "Gilbert Elliot-Murray-Kynynmound (Minto II)",
+      "office": "Viceroy and Governor-General",
+      "note": "In office during the Morley–Minto reforms."
+    },
+    {
+      "term": "1910–1916",
+      "name": "Charles Hardinge (Hardinge II)",
+      "office": "Viceroy and Governor-General",
+      "note": "Announced the capital shift to Delhi in 1911."
+    },
+    {
+      "term": "1916–1921",
+      "name": "Frederic Thesiger (Lord Chelmsford)",
+      "office": "Viceroy and Governor-General",
+      "note": "In office during the Rowlatt Act and Jallianwala Bagh massacre."
+    },
+    {
+      "term": "1921–1926",
+      "name": "Rufus Isaacs (Lord Reading)",
+      "office": "Viceroy and Governor-General",
+      "note": "Served during the Non-Cooperation era."
+    },
+    {
+      "term": "1926–1931",
+      "name": "Edward Wood (Lord Irwin; later Lord Halifax)",
+      "office": "Viceroy and Governor-General",
+      "note": "In office during the Salt March and Gandhi–Irwin Pact."
+    },
+    {
+      "term": "1931–1936",
+      "name": "Freeman-Thomas (Lord Willingdon)",
+      "office": "Viceroy and Governor-General",
+      "note": "Served during the Civil Disobedience movement and Poona Pact."
+    },
+    {
+      "term": "1936–1943",
+      "name": "Victor Hope (Lord Linlithgow)",
+      "office": "Viceroy and Governor-General",
+      "note": "Longest-serving viceroy; in office during World War II and Quit India."
+    },
+    {
+      "term": "1943–1947",
+      "name": "Archibald Wavell",
+      "office": "Viceroy and Governor-General",
+      "note": "Oversaw the Simla Conference and early transfer negotiations."
+    },
+    {
+      "term": "24 March–15 August 1947",
+      "name": "Louis Mountbatten",
+      "office": "Last Viceroy and Governor-General of British India",
+      "note": "Oversaw the 3 June Plan and the transfer of power."
+    },
+    {
+      "term": "15 August 1947–21 June 1948",
+      "name": "Louis Mountbatten",
+      "office": "Governor-General of the Dominion of India",
+      "note": "Continued as Governor-General after independence."
+    },
+    {
+      "term": "21 June 1948–26 January 1950",
+      "name": "C. Rajagopalachari",
+      "office": "Governor-General of the Dominion of India",
+      "note": "The only Indian to hold the office and the last Governor-General of India."
+    },
+    {
+      "term": "From 26 January 1950",
+      "name": "Rajendra Prasad",
+      "office": "President of the Republic of India",
+      "note": "India became a republic; the Governor-General's office ended."
+    }
+  ]
+}

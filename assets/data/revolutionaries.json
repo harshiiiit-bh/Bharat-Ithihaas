@@ -1,0 +1,511 @@
+{
+  "profiles": [
+    {
+      "name": "Mangal Pandey",
+      "years": "1827–1857",
+      "region": "Uttar Pradesh / Bengal Army",
+      "method": "1857 uprising",
+      "group": "Company sepoy",
+      "bio": "A sepoy of the 34th Bengal Native Infantry whose action at Barrackpore preceded the wider 1857 uprising.",
+      "role": "On 29 March 1857 he attacked British officers at Barrackpore. He was tried and executed on 8 April 1857.",
+      "context": "His episode became a symbol of the uprising, whose causes also included annexation, service grievances, land policies and religious-cultural anxieties.",
+      "eventYear": 1857,
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "id": "r1"
+    },
+    {
+      "name": "Rani Lakshmibai",
+      "years": "c. 1828–1858",
+      "region": "Bundelkhand",
+      "method": "1857 uprising",
+      "group": "Jhansi",
+      "bio": "The queen of Jhansi who became a prominent military leader during the 1857 uprising.",
+      "role": "She resisted British annexation of Jhansi and led forces during the uprising; she died fighting near Gwalior in June 1858.",
+      "context": "Her role is often remembered as a symbol of resistance, though accounts of her campaigns vary.",
+      "eventYear": 1857,
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "id": "r2"
+    },
+    {
+      "name": "Begum Hazrat Mahal",
+      "years": "c. 1820–1879",
+      "region": "Awadh",
+      "method": "1857 uprising",
+      "group": "Awadh resistance",
+      "bio": "A leader of resistance in Awadh during the 1857 uprising.",
+      "role": "She helped organise opposition to Company authority in Lucknow and supported the proclamation of her son, Birjis Qadr, as ruler.",
+      "context": "Her leadership highlights the participation of women and regional courts in the 1857 uprising.",
+      "eventYear": 1857,
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "id": "r3"
+    },
+    {
+      "name": "Kunwar Singh",
+      "years": "1777–1858",
+      "region": "Bihar",
+      "method": "1857 uprising",
+      "group": "Jagdishpur resistance",
+      "bio": "A zamindar of Jagdishpur who led armed resistance in Bihar during the 1857 uprising.",
+      "role": "At an advanced age, he led campaigns against Company forces and briefly recovered Jagdishpur.",
+      "context": "His role is central to the regional history of the uprising in Bihar.",
+      "eventYear": 1857,
+      "sourceIds": [
+        "ignca"
+      ],
+      "id": "r4"
+    },
+    {
+      "name": "Tantia Tope",
+      "years": "c. 1814–1859",
+      "region": "Central India",
+      "method": "1857 uprising",
+      "group": "Rebel forces",
+      "bio": "A military leader who played a major role in the 1857 uprising after the rebellion spread from north India.",
+      "role": "He campaigned with forces associated with Nana Sahib and Rani Lakshmibai and continued resistance through mobile warfare.",
+      "context": "Captured after the uprising, he was tried and executed in 1859.",
+      "eventYear": 1857,
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "id": "r5"
+    },
+    {
+      "name": "Vasudev Balwant Phadke",
+      "years": "1845–1883",
+      "region": "Maharashtra",
+      "method": "Armed resistance",
+      "group": "Early revolutionary nationalism",
+      "bio": "An early anti-colonial organiser who built a small armed group in western India.",
+      "role": "He sought to challenge colonial rule and mobilised support among sections of rural society in the 1870s.",
+      "context": "His movement is often discussed as an early precursor to later revolutionary organisations.",
+      "eventYear": 1879,
+      "sourceIds": [],
+      "id": "r6"
+    },
+    {
+      "name": "Shyamji Krishna Varma",
+      "years": "1857–1930",
+      "region": "Gujarat / Europe",
+      "method": "Expatriate organising",
+      "group": "India House",
+      "bio": "A political activist who established India House in London and supported anti-colonial writing and organising.",
+      "role": "He founded The Indian Sociologist and helped provide a meeting place for Indian students and activists in Britain.",
+      "context": "India House connected overseas networks with revolutionary and nationalist politics in India.",
+      "eventYear": 1905,
+      "sourceIds": [],
+      "id": "r7"
+    },
+    {
+      "name": "Madam Bhikaji Cama",
+      "years": "1861–1936",
+      "region": "Maharashtra / Europe",
+      "method": "Expatriate organising",
+      "group": "International anti-colonial networks",
+      "bio": "An Indian political activist who campaigned against colonial rule from Europe.",
+      "role": "She spoke at international gatherings, supported revolutionary publications and unfurled an early Indian flag design at Stuttgart in 1907.",
+      "context": "Her work illustrates the role of diaspora activism and international advocacy.",
+      "eventYear": 1907,
+      "sourceIds": [],
+      "id": "r8"
+    },
+    {
+      "name": "Vinayak Damodar Savarkar",
+      "years": "1883–1966",
+      "region": "Maharashtra / London",
+      "method": "Revolutionary organising",
+      "group": "Abhinav Bharat / India House",
+      "bio": "A political activist who participated in early 20th-century revolutionary networks and wrote on the 1857 uprising.",
+      "role": "He was associated with India House and Abhinav Bharat; he was convicted in a political case and transported to the Cellular Jail.",
+      "context": "His later political career and ideology were distinct from his early revolutionary activity and remain subjects of historical discussion.",
+      "eventYear": 1909,
+      "sourceIds": [],
+      "id": "r9"
+    },
+    {
+      "name": "Khudiram Bose",
+      "years": "1889–1908",
+      "region": "Bengal",
+      "method": "Revolutionary action",
+      "group": "Jugantar network",
+      "bio": "A young Bengali revolutionary involved in the Muzaffarpur bomb attack of 1908.",
+      "role": "He and Prafulla Chaki targeted a carriage believed to carry magistrate Kingsford; two British women were killed instead. Bose was executed in August 1908.",
+      "context": "His case became widely known, while the unintended deaths are an essential part of the historical record.",
+      "eventYear": 1908,
+      "sourceIds": [],
+      "id": "r10"
+    },
+    {
+      "name": "Prafulla Chaki",
+      "years": "1888–1908",
+      "region": "Bengal",
+      "method": "Revolutionary action",
+      "group": "Jugantar network",
+      "bio": "A Bengali revolutionary who worked with Khudiram Bose in the Muzaffarpur operation.",
+      "role": "After the attack on 30 April 1908, he was pursued by police and died by suicide to avoid capture.",
+      "context": "The incident demonstrates the risks and human consequences of revolutionary violence.",
+      "eventYear": 1908,
+      "sourceIds": [],
+      "id": "r11"
+    },
+    {
+      "name": "Rash Behari Bose",
+      "years": "1886–1945",
+      "region": "Bengal / Japan",
+      "method": "Underground organising",
+      "group": "Delhi-Lahore conspiracy / INA networks",
+      "bio": "A revolutionary organiser associated with early conspiracies and later overseas efforts to build an Indian independence force.",
+      "role": "He was linked to the 1912 Delhi-Lahore conspiracy and later helped organise Indian independence networks in East Asia.",
+      "context": "His work connected revolutionary groups inside India with expatriate politics.",
+      "eventYear": 1912,
+      "sourceIds": [],
+      "id": "r12"
+    },
+    {
+      "name": "Lala Har Dayal",
+      "years": "1884–1939",
+      "region": "Punjab / North America",
+      "method": "Expatriate organising",
+      "group": "Ghadar movement",
+      "bio": "A scholar and anti-colonial activist who helped organise the Ghadar movement among Indian migrants in North America.",
+      "role": "He helped establish the Ghadar Party and its newspaper, which called for an end to colonial rule.",
+      "context": "The movement's international networks played a part in wartime revolutionary plans.",
+      "eventYear": 1913,
+      "sourceIds": [],
+      "id": "r13"
+    },
+    {
+      "name": "Kartar Singh Sarabha",
+      "years": "1896–1915",
+      "region": "Punjab / North America",
+      "method": "Revolutionary organising",
+      "group": "Ghadar movement",
+      "bio": "A young Ghadar activist who returned to India to take part in plans for an anti-colonial uprising during World War I.",
+      "role": "He was arrested after the failed 1915 uprising plans and executed in Lahore in November 1915.",
+      "context": "His life became an important symbol in Punjabi revolutionary memory.",
+      "eventYear": 1915,
+      "sourceIds": [],
+      "id": "r14"
+    },
+    {
+      "name": "Udham Singh",
+      "years": "1899–1940",
+      "region": "Punjab / Britain",
+      "method": "Revolutionary action",
+      "group": "Anti-colonial networks",
+      "bio": "An activist from Punjab who was present in the aftermath of the Jallianwala Bagh massacre and later travelled abroad.",
+      "role": "He shot Michael O'Dwyer in London in March 1940 and was executed in July 1940. He described his action as linked to the 1919 massacre.",
+      "context": "His action and its motives should be read in the context of the massacre and the varied methods used by anti-colonial activists.",
+      "eventYear": 1940,
+      "sourceIds": [],
+      "id": "r15"
+    },
+    {
+      "name": "Ram Prasad Bismil",
+      "years": "1897–1927",
+      "region": "United Provinces",
+      "method": "Revolutionary action",
+      "group": "Hindustan Republican Association",
+      "bio": "A poet and revolutionary organiser associated with the Hindustan Republican Association (HRA).",
+      "role": "He was a leading figure in the Kakori train action of 1925 and was executed in December 1927.",
+      "context": "The HRA sought to end colonial rule and later evolved into the Hindustan Socialist Republican Association.",
+      "eventYear": 1925,
+      "sourceIds": [],
+      "id": "r16"
+    },
+    {
+      "name": "Ashfaqulla Khan",
+      "years": "1900–1927",
+      "region": "United Provinces",
+      "method": "Revolutionary action",
+      "group": "Hindustan Republican Association",
+      "bio": "A revolutionary associated with the HRA and the Kakori train action.",
+      "role": "He was arrested after the Kakori case and executed in Faizabad jail in December 1927.",
+      "context": "His association with Bismil is also remembered as a cross-community friendship within a revolutionary organisation.",
+      "eventYear": 1925,
+      "sourceIds": [],
+      "id": "r17"
+    },
+    {
+      "name": "Chandrashekhar Azad",
+      "years": "1906–1931",
+      "region": "Central India / United Provinces",
+      "method": "Underground organising",
+      "group": "HRA / HSRA",
+      "bio": "A revolutionary who helped reorganise the Hindustan Republican Association as the Hindustan Socialist Republican Association.",
+      "role": "He supported the Kakori network and later worked with Bhagat Singh and other revolutionaries. He died during a police encounter in Allahabad in 1931.",
+      "context": "Azad's clandestine work connected several revolutionary episodes in the 1920s and early 1930s.",
+      "eventYear": 1931,
+      "sourceIds": [
+        "amrit"
+      ],
+      "id": "r18"
+    },
+    {
+      "name": "Bhagat Singh",
+      "years": "1907–1931",
+      "region": "Punjab",
+      "method": "Revolutionary socialism",
+      "group": "HSRA / Naujawan Bharat Sabha",
+      "bio": "A revolutionary socialist whose writings and actions made him one of the most widely remembered figures of the freedom movement.",
+      "role": "He was involved in the Saunders case and the 1929 Assembly bombing with Batukeshwar Dutt. He was executed with Rajguru and Sukhdev in 1931.",
+      "context": "His surviving writings discuss revolution, socialism, secularism and political organisation. His ideas were broader than armed action alone.",
+      "eventYear": 1931,
+      "sourceIds": [
+        "nehru"
+      ],
+      "id": "r19"
+    },
+    {
+      "name": "Shivaram Rajguru",
+      "years": "1908–1931",
+      "region": "Maharashtra / Punjab",
+      "method": "Revolutionary action",
+      "group": "HSRA",
+      "bio": "A member of the Hindustan Socialist Republican Association and associate of Bhagat Singh.",
+      "role": "He took part in the killing of J. P. Saunders in Lahore in 1928 and was executed in 1931.",
+      "context": "Rajguru's work forms part of the HSRA's strategy of revolutionary action and public messaging.",
+      "eventYear": 1928,
+      "sourceIds": [],
+      "id": "r20"
+    },
+    {
+      "name": "Sukhdev Thapar",
+      "years": "1907–1931",
+      "region": "Punjab",
+      "method": "Revolutionary organising",
+      "group": "HSRA / Naujawan Bharat Sabha",
+      "bio": "A key organiser in the HSRA's Punjab network.",
+      "role": "He was implicated in the Lahore Conspiracy Case and executed with Bhagat Singh and Rajguru in March 1931.",
+      "context": "Sukhdev's role included organisational work in addition to the actions for which he was tried.",
+      "eventYear": 1931,
+      "sourceIds": [],
+      "id": "r21"
+    },
+    {
+      "name": "Batukeshwar Dutt",
+      "years": "1910–1965",
+      "region": "Bengal / North India",
+      "method": "Revolutionary action",
+      "group": "HSRA",
+      "bio": "A revolutionary associated with the Hindustan Socialist Republican Association.",
+      "role": "He and Bhagat Singh threw bombs in the Central Legislative Assembly in April 1929 and surrendered. Dutt was sentenced to transportation for life.",
+      "context": "The Assembly action was designed as a public political demonstration and caused no deaths.",
+      "eventYear": 1929,
+      "sourceIds": [],
+      "id": "r22"
+    },
+    {
+      "name": "Surya Sen",
+      "years": "1894–1934",
+      "region": "Chittagong, Bengal",
+      "method": "Revolutionary organising",
+      "group": "Indian Republican Army, Chittagong branch",
+      "bio": "A schoolteacher and revolutionary organiser widely known as Masterda.",
+      "role": "He led the Chittagong Armoury Raid on 18 April 1930 and helped establish an underground network.",
+      "context": "Women including Pritilata Waddedar and Kalpana Dutta were part of the broader Chittagong revolutionary movement.",
+      "eventYear": 1930,
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ],
+      "id": "r23"
+    },
+    {
+      "name": "Pritilata Waddedar",
+      "years": "1911–1932",
+      "region": "Chittagong, Bengal",
+      "method": "Revolutionary action",
+      "group": "Chittagong revolutionary network",
+      "bio": "A teacher and revolutionary who took part in the Chittagong movement led by Surya Sen.",
+      "role": "She led an attack on the Pahartali European Club in September 1932 and died after taking cyanide to avoid capture.",
+      "context": "Her life shows women's participation in revolutionary networks beyond the best-known male leaders.",
+      "eventYear": 1932,
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ],
+      "id": "r24"
+    },
+    {
+      "name": "Kalpana Dutta",
+      "years": "1913–1995",
+      "region": "Chittagong, Bengal",
+      "method": "Underground organising",
+      "group": "Chittagong revolutionary network",
+      "bio": "A revolutionary associated with Surya Sen's Chittagong group.",
+      "role": "She took part in preparations for the armoury raid and later revolutionary activity, was arrested and sentenced to transportation for life, and was released in 1939.",
+      "context": "Her memoir offers a participant's account of the Chittagong movement.",
+      "eventYear": 1930,
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ],
+      "id": "r25"
+    },
+    {
+      "name": "Alluri Sitarama Raju",
+      "years": "1897–1924",
+      "region": "Andhra Agency tracts",
+      "method": "Tribal armed resistance",
+      "group": "Manyam/Rampa movement",
+      "bio": "A leader of the Manyam or Rampa uprising, rooted in tribal grievances against colonial forest policies.",
+      "role": "The revolt began with police-station attacks in August 1922 and continued as guerrilla resistance until Raju's capture and killing in May 1924.",
+      "context": "The uprising's support and demands were grounded in local Adivasi communities and their land and forest rights.",
+      "eventYear": 1922,
+      "sourceIds": [
+        "rampa"
+      ],
+      "id": "r26"
+    },
+    {
+      "name": "Subhas Chandra Bose",
+      "years": "1897–1945 (reported)",
+      "region": "Bengal / Southeast Asia",
+      "method": "INA and overseas mobilisation",
+      "group": "Indian National Army / Azad Hind",
+      "bio": "A nationalist leader who sought to end British rule through international alliances and an armed force.",
+      "role": "He led the Indian National Army and proclaimed the Provisional Government of Azad Hind in 1943.",
+      "context": "Bose's wartime alliances with the Axis powers and the INA's campaigns are essential context for assessing this strand of the struggle. His death circumstances remain debated.",
+      "eventYear": 1943,
+      "sourceIds": [
+        "nehru"
+      ],
+      "id": "r27"
+    },
+    {
+      "name": "Rash Behari Bose",
+      "years": "1886–1945",
+      "region": "Bengal / Japan",
+      "method": "Overseas organising",
+      "group": "Indian Independence League",
+      "bio": "A revolutionary organiser who helped build Indian independence networks in East Asia.",
+      "role": "He helped lay the groundwork for the Indian Independence League and the INA before Subhas Chandra Bose took leadership.",
+      "context": "His work linked earlier underground politics with wartime overseas organising.",
+      "eventYear": 1943,
+      "sourceIds": [],
+      "id": "r28"
+    }
+  ],
+  "sources": [
+    {
+      "id": "bl",
+      "name": "British Library — East India Company archive",
+      "url": "https://searcharchives.bl.uk/catalog/032-000173250",
+      "note": "Company voyages, factories and trading settlements."
+    },
+    {
+      "id": "ie",
+      "name": "The Indian Express — English factory at Surat",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/english-factory-india-surat-british-9786883/lite/",
+      "note": "Hawkins, Surat and the early English trading foothold."
+    },
+    {
+      "id": "parliamentCompany",
+      "name": "UK Parliament — East India Company and Raj, 1785–1858",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/",
+      "note": "Company expansion, the 1857 rising and the transfer of power."
+    },
+    {
+      "id": "goiAct",
+      "name": "Government of India Act 1858 — legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/21-22/106/contents/enacted",
+      "note": "Primary legislation transferring government to the Crown."
+    },
+    {
+      "id": "raj",
+      "name": "UK Parliament — Government of the Raj, 1858–1914",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/",
+      "note": "Crown-era administration and legislative structures."
+    },
+    {
+      "id": "iaAct",
+      "name": "UK Parliament — Indian Independence Act 1947",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/collections1/collections2/1947-indian-independence-act/",
+      "note": "The Act, the two Dominions and the legal transfer."
+    },
+    {
+      "id": "archives",
+      "name": "UK National Archives — Partition of British India",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/",
+      "note": "The 3 June Plan, border announcement and partition context."
+    },
+    {
+      "id": "gandhi",
+      "name": "Gandhi Smriti — Chronology of Mahatma Gandhi",
+      "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi",
+      "note": "Dated chronology of Gandhi's work and the freedom movement."
+    },
+    {
+      "id": "gportal",
+      "name": "Gandhi Heritage Portal — Event chronology",
+      "url": "https://gandhiheritageportal.org/chronology/event-chronology-listing",
+      "note": "Primary-source-linked chronology and day-by-day records."
+    },
+    {
+      "id": "dandi",
+      "name": "Gandhi Heritage Portal — Salt Satyagraha background",
+      "url": "https://www.gandhiheritageportal.org/background-to-the-salt-satyagraha",
+      "note": "The decision, letter and start of the Salt March."
+    },
+    {
+      "id": "dandiGov",
+      "name": "Ministry of Culture — Dandi March",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/day-1-12th-march.htm",
+      "note": "Government of India account of the march, 12 March–5 April 1930."
+    },
+    {
+      "id": "inc",
+      "name": "Indian National Congress — Brief history",
+      "url": "https://inc.in/brief-history-of-congress",
+      "note": "The first session and later Congress milestones."
+    },
+    {
+      "id": "nehru",
+      "name": "Nehru Portal — Freedom Struggle",
+      "url": "https://nehruportal.nic.in/node/9",
+      "note": "Nehru's documented participation and chronology."
+    },
+    {
+      "id": "iranica",
+      "name": "Encyclopaedia Iranica — Anglo-Afghan Wars",
+      "url": "https://www.iranicaonline.org/articles/anglo-afghan-wars/",
+      "note": "Scholarly overview of all three Anglo-Afghan wars."
+    },
+    {
+      "id": "amrit",
+      "name": "Azadi Ka Amrit Mahotsav — Chittagong Armoury Raid",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2556=",
+      "note": "Ministry of Culture district repository entry."
+    },
+    {
+      "id": "rampa",
+      "name": "Press Information Bureau — Alluri Sitarama Raju",
+      "url": "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=148563",
+      "note": "Government of India account of the Manyam/Rampa rebellion."
+    },
+    {
+      "id": "archontology",
+      "name": "Archontology — British India viceroys and governors-general",
+      "url": "https://archontology.org/nations/british_india/00_1858_1947_gg.php",
+      "note": "Term dates, including acting office-holders."
+    },
+    {
+      "id": "ignca",
+      "name": "IGNCA — History of India (PDF)",
+      "url": "https://ignca.gov.in/Asi_data/46527.pdf",
+      "note": "Historical survey including the rise of the Congress."
+    },
+    {
+      "id": "nationalBookTrust",
+      "name": "National Book Trust — Hanged for Patriotism (PDF)",
+      "url": "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf",
+      "note": "Documentary account of the Chittagong revolutionary network."
+    }
+  ]
+}
