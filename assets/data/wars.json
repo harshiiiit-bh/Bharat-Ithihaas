@@ -1,0 +1,1637 @@
+{
+  "scope": "A curated register of major wars, battles, colonial campaigns, frontier expeditions and armed rebellions affecting the Indian subcontinent between 1600 and 1947. It is not a claim that every local skirmish or raid is exhaustively recorded.",
+  "wars": [
+    {
+      "id": "swally",
+      "startYear": 1612,
+      "endYear": 1612,
+      "period": "29–30 Nov 1612",
+      "kind": "Naval battle",
+      "region": "Gujarat coast",
+      "title": "Battle of Swally (Suvali)",
+      "parties": "English EIC ↔ Portuguese fleet",
+      "summary": "An English Company fleet defeated a Portuguese squadron off Gujarat.",
+      "engagements": "Swally, near Surat",
+      "outcome": "Helped the Company strengthen its case for access to Mughal ports.",
+      "leaders": [
+        "Thomas Best"
+      ],
+      "sourceIds": [
+        "bl"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ahom",
+      "startYear": 1667,
+      "endYear": 1682,
+      "period": "1667–1682",
+      "kind": "Regional war",
+      "region": "Assam",
+      "title": "Ahom–Mughal campaigns",
+      "parties": "Ahom Kingdom ↔ Mughal Empire and allies",
+      "summary": "A long series of campaigns over the Brahmaputra valley and Guwahati.",
+      "engagements": "Alaboi (1669); Saraighat (1671); Itakhuli (1682)",
+      "outcome": "Ahom forces secured Guwahati and restored the frontier to the Manas River.",
+      "leaders": [
+        "Lachit Borphukan",
+        "Ram Singh I",
+        "Chakradhwaj Singha",
+        "Udayaditya Singha"
+      ],
+      "sourceIds": [
+        "assamGov"
+      ],
+      "notes": "Separate campaigns over decades, not one continuous battle-line; casualty estimates vary."
+    },
+    {
+      "id": "alaboi",
+      "startYear": 1669,
+      "endYear": 1669,
+      "period": "5 Aug 1669",
+      "kind": "Battle",
+      "region": "Assam",
+      "title": "Battle of Alaboi",
+      "parties": "Ahom Kingdom ↔ Mughal expedition",
+      "summary": "A major battle during Ram Singh I's campaign into Assam.",
+      "engagements": "Alaboi plains",
+      "outcome": "Mughal tactical success; the wider conflict continued.",
+      "leaders": [
+        "Lachit Borphukan",
+        "Ram Singh I"
+      ],
+      "sourceIds": [
+        "assamGov"
+      ],
+      "notes": "Casualty figures are estimates, not settled counts."
+    },
+    {
+      "id": "jat",
+      "startYear": 1669,
+      "endYear": 1670,
+      "period": "1669–1670",
+      "kind": "Armed uprising",
+      "region": "Braj / Mathura",
+      "title": "Jat uprising under Gokula",
+      "parties": "Jat communities ↔ Mughal Empire",
+      "summary": "An armed Jat uprising against Mughal authority in the Mathura region.",
+      "engagements": "Uprising and counter-campaign",
+      "outcome": "Suppressed; later Jat power grew through subsequent phases.",
+      "leaders": [
+        "Gokula"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "saraighat",
+      "startYear": 1671,
+      "endYear": 1671,
+      "period": "Mar 1671",
+      "kind": "Battle",
+      "region": "Assam",
+      "title": "Battle of Saraighat",
+      "parties": "Ahom Kingdom ↔ Mughal Empire",
+      "summary": "A major Brahmaputra river battle led by Lachit Borphukan.",
+      "engagements": "Saraighat, near Guwahati",
+      "outcome": "Ahom victory helped secure Guwahati.",
+      "leaders": [
+        "Lachit Borphukan",
+        "Ram Singh I",
+        "Atan Burhagohain"
+      ],
+      "sourceIds": [
+        "assamGov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "satnami",
+      "startYear": 1672,
+      "endYear": 1672,
+      "period": "1672",
+      "kind": "Armed uprising",
+      "region": "Haryana / Mughal north India",
+      "title": "Satnami uprising",
+      "parties": "Satnami community ↔ Mughal Empire",
+      "summary": "An armed rising in the Narnaul region during Aurangzeb's reign.",
+      "engagements": "Narnaul",
+      "outcome": "Suppressed by Mughal forces.",
+      "leaders": [
+        "Aurangzeb"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mughal-maratha",
+      "startYear": 1680,
+      "endYear": 1707,
+      "period": "1680–1707",
+      "kind": "Regional war",
+      "region": "Deccan and western India",
+      "title": "Mughal–Maratha War",
+      "parties": "Mughal Empire ↔ Maratha forces",
+      "summary": "A prolonged conflict after Shivaji's death, featuring sieges and mobile campaigns across the Deccan.",
+      "engagements": "Fort sieges and Deccan campaigns",
+      "outcome": "The Mughal campaign did not eliminate Maratha power.",
+      "leaders": [
+        "Aurangzeb",
+        "Sambhaji",
+        "Rajaram",
+        "Tarabai"
+      ],
+      "sourceIds": [
+        "panipatGov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "itakhuli",
+      "startYear": 1682,
+      "endYear": 1682,
+      "period": "Sep 1682",
+      "kind": "Battle",
+      "region": "Assam",
+      "title": "Battle of Itakhuli",
+      "parties": "Ahom Kingdom ↔ Mughal Empire",
+      "summary": "Ahom forces recovered Guwahati in the final major phase of the conflict.",
+      "engagements": "Itakhuli and Guwahati",
+      "outcome": "Ahom victory; the Manas River became the frontier.",
+      "leaders": [
+        "Ahom commanders"
+      ],
+      "sourceIds": [
+        "assamGov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "anglo-mughal",
+      "startYear": 1686,
+      "endYear": 1690,
+      "period": "1686–1690",
+      "kind": "War",
+      "region": "Bengal and western India",
+      "title": "Anglo-Mughal War",
+      "parties": "East India Company ↔ Mughal Empire",
+      "summary": "The Company entered open conflict over trade, fortifications and privileges.",
+      "engagements": "Operations around Bengal and Bombay",
+      "outcome": "Company forces sought pardon and resumed trade under Mughal authority.",
+      "leaders": [
+        "Aurangzeb",
+        "Job Charnock"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "carnatic1",
+      "startYear": 1746,
+      "endYear": 1748,
+      "period": "1746–1748",
+      "kind": "Colonial war",
+      "region": "Carnatic and Coromandel",
+      "title": "First Carnatic War",
+      "parties": "French EIC and allies ↔ British EIC and allies",
+      "summary": "The War of the Austrian Succession extended to south India amid changing Indian alliances.",
+      "engagements": "Madras and Carnatic",
+      "outcome": "Treaty of Aix-la-Chapelle restored Madras to the British.",
+      "leaders": [
+        "Dupleix",
+        "La Bourdonnais"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "carnatic2",
+      "startYear": 1749,
+      "endYear": 1754,
+      "period": "1749–1754",
+      "kind": "Colonial war",
+      "region": "Carnatic and Hyderabad",
+      "title": "Second Carnatic War",
+      "parties": "British-backed and French-backed Indian claimants and Company forces",
+      "summary": "A succession conflict in Hyderabad and the Carnatic involving French and British intervention.",
+      "engagements": "Arcot campaign and other engagements",
+      "outcome": "British influence grew in the Carnatic.",
+      "leaders": [
+        "Robert Clive",
+        "Dupleix",
+        "Chanda Sahib"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "carnatic3",
+      "startYear": 1756,
+      "endYear": 1763,
+      "period": "1756–1763",
+      "kind": "Colonial war",
+      "region": "Carnatic and Coromandel",
+      "title": "Third Carnatic War",
+      "parties": "British EIC ↔ French EIC",
+      "summary": "The Indian theatre of the Seven Years' War.",
+      "engagements": "Wandiwash (1760); fall of Pondicherry (1761)",
+      "outcome": "British victory curtailed French military power in India.",
+      "leaders": [
+        "Eyre Coote",
+        "Comte de Lally"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "plassey",
+      "startYear": 1757,
+      "endYear": 1757,
+      "period": "23 Jun 1757",
+      "kind": "Battle",
+      "region": "Bengal",
+      "title": "Battle of Plassey",
+      "parties": "East India Company and allies ↔ Bengal forces under Siraj ud-Daulah",
+      "summary": "A battle amid a Bengal political crisis and conspiracy among court figures.",
+      "engagements": "Palashi / Plassey",
+      "outcome": "Company victory opened the way to dominance in Bengal.",
+      "leaders": [
+        "Robert Clive",
+        "Siraj ud-Daulah",
+        "Mir Jafar"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "wandiwash",
+      "startYear": 1760,
+      "endYear": 1760,
+      "period": "22 Jan 1760",
+      "kind": "Battle",
+      "region": "Tamil Nadu",
+      "title": "Battle of Wandiwash",
+      "parties": "British EIC ↔ French EIC",
+      "summary": "A decisive Company battle in the Third Carnatic War.",
+      "engagements": "Wandiwash / Vandavasi",
+      "outcome": "British victory helped determine the Carnatic struggle.",
+      "leaders": [
+        "Eyre Coote",
+        "Comte de Lally"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "panipat",
+      "startYear": 1761,
+      "endYear": 1761,
+      "period": "14 Jan 1761",
+      "kind": "Battle",
+      "region": "Panipat, Haryana",
+      "title": "Third Battle of Panipat",
+      "parties": "Maratha Empire ↔ Durrani Empire and allies",
+      "summary": "A major battle between the Maratha army and Ahmad Shah Durrani's coalition.",
+      "engagements": "Panipat",
+      "outcome": "Durrani coalition victory; casualty estimates vary.",
+      "leaders": [
+        "Ahmad Shah Durrani",
+        "Sadashivrao Bhau",
+        "Vishwasrao",
+        "Shuja-ud-Daula"
+      ],
+      "sourceIds": [
+        "panipatGov"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sannyasi",
+      "startYear": 1763,
+      "endYear": 1800,
+      "period": "c.1763–1800",
+      "kind": "Armed resistance",
+      "region": "Bengal",
+      "title": "Sannyasi–Fakir resistance",
+      "parties": "Sannyasi and Fakir groups, peasants and local allies ↔ Company authorities",
+      "summary": "Repeated resistance across Bengal amid revenue and political disruption.",
+      "engagements": "Multiple local actions",
+      "outcome": "Suppressed in stages; local episodes had varied aims.",
+      "leaders": [
+        "Majnu Shah",
+        "Bhavani Pathak"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": "A regionally varied series, not one unified war."
+    },
+    {
+      "id": "buxar",
+      "startYear": 1764,
+      "endYear": 1764,
+      "period": "22 Oct 1764",
+      "kind": "Battle",
+      "region": "Bihar",
+      "title": "Battle of Buxar",
+      "parties": "EIC ↔ forces of Mir Qasim, Awadh and Shah Alam II",
+      "summary": "A major battle that consolidated Company power in eastern India.",
+      "engagements": "Buxar",
+      "outcome": "Company victory preceded the 1765 Diwani grant.",
+      "leaders": [
+        "Hector Munro",
+        "Mir Qasim",
+        "Shuja-ud-Daula",
+        "Shah Alam II"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "chuar",
+      "startYear": 1766,
+      "endYear": 1799,
+      "period": "1766–1772; 1798–1799",
+      "kind": "Armed resistance",
+      "region": "Western Bengal",
+      "title": "Chuar rebellions",
+      "parties": "Forest communities, cultivators and local chiefs ↔ Company authorities",
+      "summary": "Repeated rebellions involving land, revenue and local authority.",
+      "engagements": "Midnapore, Bankura and adjoining areas",
+      "outcome": "Suppressed in separate phases.",
+      "leaders": [
+        "Rani Shiromani",
+        "Durjan Singh"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": "‘Chuar’ is a colonial label retained because it appears in historical records."
+    },
+    {
+      "id": "mysore1",
+      "startYear": 1767,
+      "endYear": 1769,
+      "period": "1767–1769",
+      "kind": "Colonial war",
+      "region": "Mysore and Carnatic",
+      "title": "First Anglo-Mysore War",
+      "parties": "Mysore and changing allies ↔ EIC and allies",
+      "summary": "The first of four wars between Mysore and the Company.",
+      "engagements": "Campaigns around Madras and the Carnatic",
+      "outcome": "Treaty of Madras restored the pre-war position.",
+      "leaders": [
+        "Hyder Ali"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "rohilla1",
+      "startYear": 1773,
+      "endYear": 1774,
+      "period": "1773–1774",
+      "kind": "Colonial intervention",
+      "region": "Rohilkhand",
+      "title": "Rohilla War",
+      "parties": "Awadh with Company support ↔ Rohilla chiefs",
+      "summary": "Company forces supported Awadh in a campaign against Rohilla power.",
+      "engagements": "Miranpur Katra / Kutra, 23 Apr 1774",
+      "outcome": "Hafiz Rahmat Khan was killed; the political order changed.",
+      "leaders": [
+        "Hafiz Rahmat Khan",
+        "Shuja-ud-Daula",
+        "Alexander Champion",
+        "Warren Hastings"
+      ],
+      "sourceIds": [
+        "rohillaBL"
+      ],
+      "notes": "The Company supported Awadh; this was not a simple bilateral Company–Rohilla war."
+    },
+    {
+      "id": "maratha1",
+      "startYear": 1775,
+      "endYear": 1782,
+      "period": "1775–1782",
+      "kind": "Colonial war",
+      "region": "Western and central India",
+      "title": "First Anglo-Maratha War",
+      "parties": "EIC ↔ Maratha Confederacy",
+      "summary": "A succession dispute drew the Bombay Company government into war.",
+      "engagements": "Wadgaon (1779)",
+      "outcome": "Treaty of Salbai ended the conflict and restored a negotiated status quo.",
+      "leaders": [
+        "Nana Fadnavis",
+        "Mahadji Shinde",
+        "Raghunath Rao",
+        "Madhavrao II"
+      ],
+      "sourceIds": [
+        "wheMaratha",
+        "ebscoMaratha"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mysore2",
+      "startYear": 1780,
+      "endYear": 1784,
+      "period": "1780–1784",
+      "kind": "Colonial war",
+      "region": "Mysore and Carnatic",
+      "title": "Second Anglo-Mysore War",
+      "parties": "Mysore and French allies ↔ EIC and allies",
+      "summary": "Renewed war under Hyder Ali and Tipu Sultan.",
+      "engagements": "Pollilur (1780); Porto Novo (1781)",
+      "outcome": "Treaty of Mangalore restored territories and prisoners.",
+      "leaders": [
+        "Hyder Ali",
+        "Tipu Sultan",
+        "Eyre Coote"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mysore3",
+      "startYear": 1790,
+      "endYear": 1792,
+      "period": "1790–1792",
+      "kind": "Colonial war",
+      "region": "Mysore and southern India",
+      "title": "Third Anglo-Mysore War",
+      "parties": "Mysore ↔ Company, Maratha and Hyderabad alliance",
+      "summary": "A coalition war against Tipu Sultan after the Mysore–Travancore crisis.",
+      "engagements": "Siege of Seringapatam (1792)",
+      "outcome": "Treaty of Seringapatam required territorial cessions and indemnity.",
+      "leaders": [
+        "Tipu Sultan",
+        "Charles Cornwallis"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "rohilla2",
+      "startYear": 1794,
+      "endYear": 1794,
+      "period": "1794",
+      "kind": "Colonial intervention",
+      "region": "Rohilkhand",
+      "title": "Second Rohilla campaign",
+      "parties": "Awadh and Company forces ↔ Rohilla forces",
+      "summary": "A later, smaller campaign recorded separately from the 1773–74 war.",
+      "engagements": "Bitaura, 26 Oct 1794",
+      "outcome": "Brief episode distinct from the earlier war.",
+      "leaders": [
+        "Faizullah Khan"
+      ],
+      "sourceIds": [
+        "rohillaBL"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mysore4",
+      "startYear": 1799,
+      "endYear": 1799,
+      "period": "1799",
+      "kind": "Colonial war",
+      "region": "Mysore",
+      "title": "Fourth Anglo-Mysore War",
+      "parties": "Mysore ↔ EIC and allied forces",
+      "summary": "Final war between Mysore under Tipu Sultan and the Company-led coalition.",
+      "engagements": "Siege and storming of Seringapatam",
+      "outcome": "Tipu Sultan was killed; Mysore's political order was reconstituted under Company influence.",
+      "leaders": [
+        "Tipu Sultan",
+        "Arthur Wellesley",
+        "Harris"
+      ],
+      "sourceIds": [
+        "wheMysore"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "maratha2",
+      "startYear": 1803,
+      "endYear": 1805,
+      "period": "1803–1805",
+      "kind": "Colonial war",
+      "region": "Central and western India",
+      "title": "Second Anglo-Maratha War",
+      "parties": "EIC ↔ Scindia, Bhonsle and Holkar powers",
+      "summary": "The Company fought Maratha houses after the Treaty of Bassein.",
+      "engagements": "Assaye; Argaon; Laswari (1803)",
+      "outcome": "Company victories brought territorial and political concessions.",
+      "leaders": [
+        "Arthur Wellesley",
+        "Daulat Rao Scindia",
+        "Raghoji II Bhonsle"
+      ],
+      "sourceIds": [
+        "wheMaratha",
+        "companyInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "vellore",
+      "startYear": 1806,
+      "endYear": 1806,
+      "period": "10 Jul 1806",
+      "kind": "Military uprising",
+      "region": "Vellore, Tamil Nadu",
+      "title": "Vellore Mutiny",
+      "parties": "Indian sepoys of the Madras Army ↔ EIC forces",
+      "summary": "A short military uprising against service regulations and associated cultural grievances.",
+      "engagements": "Vellore Fort",
+      "outcome": "Suppressed within a day; preceded the larger 1857 uprising.",
+      "leaders": [
+        "Indian sepoys"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "nepal",
+      "startYear": 1814,
+      "endYear": 1816,
+      "period": "1814–1816",
+      "kind": "Colonial war",
+      "region": "Himalayan frontier",
+      "title": "Anglo-Nepalese War",
+      "parties": "EIC ↔ Kingdom of Nepal",
+      "summary": "A series of campaigns over frontier territories in the Himalayan foothills.",
+      "engagements": "Kumaon and Garhwal; Makwanpur",
+      "outcome": "Treaty of Sugauli revised the boundary; Nepal remained sovereign.",
+      "leaders": [
+        "Amar Singh Thapa",
+        "David Ochterlony",
+        "Bhimsen Thapa"
+      ],
+      "sourceIds": [
+        "companyInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "paika",
+      "startYear": 1817,
+      "endYear": 1818,
+      "period": "1817–1818",
+      "kind": "Armed rebellion",
+      "region": "Odisha",
+      "title": "Paika Rebellion",
+      "parties": "Paika militia and local allies ↔ EIC",
+      "summary": "An uprising in Khurda and adjoining regions over land, revenue and political power.",
+      "engagements": "Khurda and surrounding districts",
+      "outcome": "Suppressed; Bakshi Jagabandhu was a central figure.",
+      "leaders": [
+        "Bakshi Jagabandhu"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pindari",
+      "startYear": 1817,
+      "endYear": 1818,
+      "period": "1817–1818",
+      "kind": "Military campaign",
+      "region": "Central India",
+      "title": "Pindari campaign",
+      "parties": "EIC ↔ Pindari armed bands and allied forces",
+      "summary": "A broad campaign to dismantle Pindari raiding networks, alongside operations against Maratha states.",
+      "engagements": "Operations across central India",
+      "outcome": "Helped extend Company control over central India.",
+      "leaders": [
+        "Lord Hastings",
+        "Thomas Hislop"
+      ],
+      "sourceIds": [
+        "companyInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "maratha3",
+      "startYear": 1817,
+      "endYear": 1818,
+      "period": "1817–1818 (some accounts extend to 1819)",
+      "kind": "Colonial war",
+      "region": "Central and western India",
+      "title": "Third Anglo-Maratha War",
+      "parties": "EIC ↔ Peshwa and major Maratha powers",
+      "summary": "The final major war between the Company and the Maratha Confederacy.",
+      "engagements": "Kirkee; Koregaon; Mahidpur",
+      "outcome": "The Peshwa's rule ended and the Confederacy ceased to function as a major power.",
+      "leaders": [
+        "Baji Rao II",
+        "Lord Hastings",
+        "Holkar and Scindia commanders"
+      ],
+      "sourceIds": [
+        "wheMaratha",
+        "ebscoMaratha"
+      ],
+      "notes": "Some references extend the closing phase into 1819."
+    },
+    {
+      "id": "bhil",
+      "startYear": 1818,
+      "endYear": 1831,
+      "period": "1818–1831",
+      "kind": "Armed resistance",
+      "region": "Khandesh and western India",
+      "title": "Bhil uprisings",
+      "parties": "Bhil communities ↔ Company authorities",
+      "summary": "A series of local uprisings associated with loss of autonomy and disruption of customary livelihoods.",
+      "engagements": "Multiple actions in Khandesh",
+      "outcome": "Suppressed in separate phases; no single campaign or unified leadership.",
+      "leaders": [
+        "Bhil community leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "burma1",
+      "startYear": 1824,
+      "endYear": 1826,
+      "period": "1824–1826",
+      "kind": "Colonial war",
+      "region": "Assam and Burma frontier",
+      "title": "First Anglo-Burmese War",
+      "parties": "EIC ↔ Konbaung Kingdom of Burma",
+      "summary": "The Company fought Burma over frontier expansion and influence in the northeast.",
+      "engagements": "Arakan and Assam frontier; campaigns in Burma",
+      "outcome": "Treaty of Yandabo imposed territorial cessions and an indemnity.",
+      "leaders": [
+        "Bodawpaya dynasty"
+      ],
+      "sourceIds": [
+        "burmaNAM"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "koli",
+      "startYear": 1824,
+      "endYear": 1843,
+      "period": "1824–1843",
+      "kind": "Armed resistance",
+      "region": "Gujarat and Maharashtra",
+      "title": "Koli uprisings",
+      "parties": "Koli communities ↔ Company authorities and local elites",
+      "summary": "Repeated uprisings in parts of western India.",
+      "engagements": "Local actions across the period",
+      "outcome": "Suppressed in different local campaigns.",
+      "leaders": [
+        "Koli community leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "khasi",
+      "startYear": 1829,
+      "endYear": 1833,
+      "period": "1829–1833",
+      "kind": "Armed resistance",
+      "region": "Khasi Hills, Meghalaya",
+      "title": "Khasi resistance",
+      "parties": "Khasi chiefs and communities ↔ Company authorities",
+      "summary": "Resistance to colonial road-building and occupation developed into a protracted hill conflict.",
+      "engagements": "Nongkhlaw and surrounding routes",
+      "outcome": "Suppressed; events varied across communities.",
+      "leaders": [
+        "Tirot Sing",
+        "Khasi chiefs"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kol",
+      "startYear": 1831,
+      "endYear": 1832,
+      "period": "1831–1832",
+      "kind": "Armed rebellion",
+      "region": "Chota Nagpur",
+      "title": "Kol uprising",
+      "parties": "Kol communities ↔ landlords, moneylenders and Company authorities",
+      "summary": "A regional uprising amid disruption of customary land relations.",
+      "engagements": "Chota Nagpur plateau",
+      "outcome": "Suppressed by colonial forces.",
+      "leaders": [
+        "Budhu Bhagat",
+        "Kol community leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "coorg",
+      "startYear": 1834,
+      "endYear": 1834,
+      "period": "1834",
+      "kind": "Colonial war",
+      "region": "Coorg, Karnataka",
+      "title": "Coorg War",
+      "parties": "Kingdom of Coorg ↔ EIC",
+      "summary": "A short campaign against Coorg ruler Chikka Virarajendra.",
+      "engagements": "Mercara and routes into Coorg",
+      "outcome": "Coorg was annexed by the Company.",
+      "leaders": [
+        "Chikka Virarajendra",
+        "Company commanders"
+      ],
+      "sourceIds": [],
+      "notes": ""
+    },
+    {
+      "id": "afghan1",
+      "startYear": 1839,
+      "endYear": 1842,
+      "period": "1839–1842",
+      "kind": "Colonial war",
+      "region": "Afghanistan and north-western frontier",
+      "title": "First Anglo-Afghan War",
+      "parties": "British India and allied forces ↔ Afghan forces",
+      "summary": "A British Indian invasion sought to replace Dost Mohammad Khan with Shah Shuja.",
+      "engagements": "Kabul occupation; retreat from Kabul (1842)",
+      "outcome": "The occupation collapsed and British forces withdrew.",
+      "leaders": [
+        "Dost Mohammad Khan",
+        "Shah Shuja",
+        "William Elphinstone"
+      ],
+      "sourceIds": [
+        "iranica"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sindh",
+      "startYear": 1843,
+      "endYear": 1843,
+      "period": "1843",
+      "kind": "Colonial campaign",
+      "region": "Sindh",
+      "title": "Conquest of Sindh",
+      "parties": "EIC ↔ Talpur Amirs of Sindh",
+      "summary": "Company forces fought the Talpur rulers and annexed Sindh.",
+      "engagements": "Miani (17 February); Dubbo (24 March)",
+      "outcome": "Sindh was annexed to Company territory.",
+      "leaders": [
+        "Charles Napier",
+        "Talpur Amirs"
+      ],
+      "sourceIds": [
+        "companyInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sikh1",
+      "startYear": 1845,
+      "endYear": 1846,
+      "period": "1845–1846",
+      "kind": "Colonial war",
+      "region": "Punjab and Sutlej frontier",
+      "title": "First Anglo-Sikh War",
+      "parties": "EIC ↔ Sikh Empire",
+      "summary": "War amid frontier tensions and political instability after Ranjit Singh's death.",
+      "engagements": "Mudki; Ferozeshah; Aliwal; Sobraon",
+      "outcome": "Treaty of Lahore imposed territorial and political changes.",
+      "leaders": [
+        "Hugh Gough",
+        "Henry Hardinge",
+        "Lal Singh",
+        "Tej Singh"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "khond",
+      "startYear": 1846,
+      "endYear": 1856,
+      "period": "1846–1856",
+      "kind": "Armed resistance",
+      "region": "Odisha highlands",
+      "title": "Khond resistance",
+      "parties": "Khond communities ↔ Company expeditions",
+      "summary": "A series of uprisings and colonial expeditions in the Odisha highlands.",
+      "engagements": "Multiple local campaigns",
+      "outcome": "Colonial authority was imposed unevenly.",
+      "leaders": [
+        "Khond community leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "sikh2",
+      "startYear": 1848,
+      "endYear": 1849,
+      "period": "1848–1849",
+      "kind": "Colonial war",
+      "region": "Punjab",
+      "title": "Second Anglo-Sikh War",
+      "parties": "EIC ↔ Sikh Empire",
+      "summary": "A renewed conflict after the Multan revolt expanded into a wider war.",
+      "engagements": "Ramnagar; Chillianwala; Gujarat",
+      "outcome": "Punjab was annexed by the Company in 1849.",
+      "leaders": [
+        "Sher Singh Attariwalla",
+        "Hugh Gough"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "burma2",
+      "startYear": 1852,
+      "endYear": 1853,
+      "period": "1852–1853",
+      "kind": "Colonial war",
+      "region": "Lower Burma",
+      "title": "Second Anglo-Burmese War",
+      "parties": "EIC ↔ Konbaung Kingdom of Burma",
+      "summary": "A Company campaign against Burma followed disputes and diplomatic breakdown.",
+      "engagements": "Pegu and lower Irrawaddy region",
+      "outcome": "Pegu (Lower Burma) was annexed; Upper Burma remained independent until 1885.",
+      "leaders": [
+        "Company commanders"
+      ],
+      "sourceIds": [
+        "burmaNAM"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "santhal",
+      "startYear": 1855,
+      "endYear": 1856,
+      "period": "1855–1856",
+      "kind": "Armed rebellion",
+      "region": "Rajmahal Hills / Jharkhand and West Bengal",
+      "title": "Santhal Hul",
+      "parties": "Santhal communities ↔ Company authorities and local exploitative structures",
+      "summary": "An uprising against moneylenders, landlords and colonial administration.",
+      "engagements": "Damin-i-Koh and adjoining areas",
+      "outcome": "Suppressed; the aftermath led to administrative changes.",
+      "leaders": [
+        "Sidhu Murmu",
+        "Kanhu Murmu",
+        "Chand Murmu",
+        "Bhairav Murmu",
+        "Phulo Murmu",
+        "Jhano Murmu"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "1857",
+      "startYear": 1857,
+      "endYear": 1858,
+      "period": "1857–1858",
+      "kind": "Armed uprising",
+      "region": "North and central India",
+      "title": "Uprising of 1857",
+      "parties": "Rebel sepoys, rulers, peasants and urban groups ↔ EIC",
+      "summary": "A broad, regionally varied uprising against Company authority with different local aims.",
+      "engagements": "Meerut; Delhi; Kanpur; Lucknow; Jhansi; Gwalior; Arrah",
+      "outcome": "Suppressed by 1858; Company government was replaced by Crown rule.",
+      "leaders": [
+        "Bahadur Shah Zafar",
+        "Rani Lakshmibai",
+        "Begum Hazrat Mahal",
+        "Nana Sahib",
+        "Kunwar Singh",
+        "Tantia Tope",
+        "Bakht Khan"
+      ],
+      "sourceIds": [
+        "parliamentCompany"
+      ],
+      "notes": "Names such as rebellion, mutiny and war reflect different historiographical traditions."
+    },
+    {
+      "id": "indigo",
+      "startYear": 1859,
+      "endYear": 1860,
+      "period": "1859–1860",
+      "kind": "Agrarian resistance",
+      "region": "Bengal",
+      "title": "Indigo revolt",
+      "parties": "Indigo cultivators ↔ European planters and colonial administration",
+      "summary": "Cultivators resisted coercive indigo cultivation through organised refusal and public protest.",
+      "engagements": "Nadia and other indigo-growing districts",
+      "outcome": "The movement prompted official inquiry; outcomes varied by district.",
+      "leaders": [
+        "Digambar Biswas",
+        "Bishnu Biswas"
+      ],
+      "sourceIds": [
+        "raj"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bhutan",
+      "startYear": 1864,
+      "endYear": 1865,
+      "period": "1864–1865",
+      "kind": "Colonial war",
+      "region": "Bhutan and eastern Himalayan Duars",
+      "title": "Duar War (Anglo-Bhutanese War)",
+      "parties": "British India ↔ Kingdom of Bhutan",
+      "summary": "A war over the Duars and frontier relations.",
+      "engagements": "Buxa and Dewangiri frontier posts",
+      "outcome": "Treaty of Sinchula; Bhutan ceded the Duars.",
+      "leaders": [
+        "Bhutanese regional leaders",
+        "British Indian commanders"
+      ],
+      "sourceIds": [
+        "bhutanLOC"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "lushai",
+      "startYear": 1871,
+      "endYear": 1891,
+      "period": "1871–1872; 1889–1891",
+      "kind": "Frontier campaigns",
+      "region": "Lushai Hills, northeast India",
+      "title": "Lushai expeditions",
+      "parties": "British Indian forces ↔ Lushai communities",
+      "summary": "Two major expeditions formed part of colonial frontier expansion.",
+      "engagements": "First expedition (1871–72); second (1889–91)",
+      "outcome": "The region was incorporated into colonial frontier administration.",
+      "leaders": [
+        "Lushai chiefs"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": "Two separate expeditions are grouped for discoverability."
+    },
+    {
+      "id": "kuka",
+      "startYear": 1872,
+      "endYear": 1872,
+      "period": "January 1872",
+      "kind": "Armed uprising",
+      "region": "Punjab",
+      "title": "Kuka / Namdhari uprising",
+      "parties": "Namdhari followers ↔ colonial and princely authorities",
+      "summary": "A confrontation in Malerkotla led to mass executions of Namdhari rebels.",
+      "engagements": "Malerkotla, January 1872",
+      "outcome": "Suppressed; the executions became part of Namdhari historical memory.",
+      "leaders": [
+        "Namdhari leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "afghan2",
+      "startYear": 1878,
+      "endYear": 1880,
+      "period": "1878–1880",
+      "kind": "Colonial war",
+      "region": "Afghanistan and north-western frontier",
+      "title": "Second Anglo-Afghan War",
+      "parties": "British India ↔ Afghanistan",
+      "summary": "British forces invaded amid strategic rivalry and disputes over diplomatic influence.",
+      "engagements": "Ali Masjid; Peiwar Kotal; Maiwand; Kabul",
+      "outcome": "The Treaty of Gandamak and later settlement constrained Afghan foreign relations.",
+      "leaders": [
+        "Sher Ali Khan",
+        "Abdur Rahman Khan",
+        "Frederick Roberts"
+      ],
+      "sourceIds": [
+        "iranica"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "naga",
+      "startYear": 1879,
+      "endYear": 1880,
+      "period": "1879–1880",
+      "kind": "Frontier campaign",
+      "region": "Angami Naga Hills",
+      "title": "Khonoma campaign and Naga resistance",
+      "parties": "Naga communities ↔ British Indian forces",
+      "summary": "The Khonoma campaign formed part of a longer sequence of frontier resistance.",
+      "engagements": "Khonoma and the Angami Hills",
+      "outcome": "Colonial authority expanded in stages.",
+      "leaders": [
+        "Khonoma leaders"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "burma3",
+      "startYear": 1885,
+      "endYear": 1886,
+      "period": "1885–1886",
+      "kind": "Colonial war",
+      "region": "Upper Burma",
+      "title": "Third Anglo-Burmese War",
+      "parties": "British India ↔ Konbaung Kingdom of Burma",
+      "summary": "British forces invaded Upper Burma and deposed King Thibaw.",
+      "engagements": "Mandalay and Irrawaddy valley",
+      "outcome": "Upper Burma was annexed in 1886; guerrilla resistance continued.",
+      "leaders": [
+        "Thibaw Min"
+      ],
+      "sourceIds": [
+        "burmaNAM"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "manipur",
+      "startYear": 1891,
+      "endYear": 1891,
+      "period": "1891",
+      "kind": "Colonial war",
+      "region": "Manipur",
+      "title": "Anglo-Manipur War",
+      "parties": "Kingdom of Manipur ↔ British Indian forces",
+      "summary": "A succession crisis led to armed conflict between Manipur and British India.",
+      "engagements": "Imphal and associated engagements",
+      "outcome": "British influence increased; Manipur remained a princely state.",
+      "leaders": [
+        "Tikendrajit Singh",
+        "Kulachandra Singh"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "frontier",
+      "startYear": 1897,
+      "endYear": 1898,
+      "period": "1897–1898",
+      "kind": "Frontier campaigns",
+      "region": "North-West Frontier",
+      "title": "North-West Frontier campaigns",
+      "parties": "British Indian forces ↔ Afridi, Orakzai, Mohmand and other frontier communities",
+      "summary": "A cluster of expeditions followed attacks on forts and posts and disputes over frontier control.",
+      "engagements": "Malakand; Shabkadr; Samana/Saragarhi; Dargai; Tirah",
+      "outcome": "The expeditions reasserted imperial frontier control; official and local perspectives differ.",
+      "leaders": [
+        "William Lockhart",
+        "Bindon Blood",
+        "Frontier community leaders"
+      ],
+      "sourceIds": [
+        "frontierNAM",
+        "tirahNAM"
+      ],
+      "notes": "Includes separate field forces, not one battle or unified opponent."
+    },
+    {
+      "id": "munda",
+      "startYear": 1899,
+      "endYear": 1900,
+      "period": "1899–1900",
+      "kind": "Armed rebellion",
+      "region": "Chotanagpur",
+      "title": "Munda Ulgulan",
+      "parties": "Munda communities ↔ colonial authorities and local exploitative structures",
+      "summary": "Birsa Munda's movement combined religious, social and political elements with demands for land and autonomy.",
+      "engagements": "Chotanagpur region",
+      "outcome": "The uprising was suppressed; later legal changes addressed some land issues.",
+      "leaders": [
+        "Birsa Munda"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "gadar",
+      "startYear": 1915,
+      "endYear": 1915,
+      "period": "February 1915",
+      "kind": "Planned uprising",
+      "region": "Punjab and cantonments across India",
+      "title": "Ghadar planned uprising",
+      "parties": "Ghadar activists and sympathisers ↔ British Indian authorities",
+      "summary": "A planned wartime uprising in parts of the Indian Army was disrupted by intelligence and arrests.",
+      "engagements": "Planned mutinies in Punjab and other cantonments",
+      "outcome": "The plot failed to become a general uprising; trials followed.",
+      "leaders": [
+        "Kartar Singh Sarabha",
+        "Rash Behari Bose",
+        "Vishnu Ganesh Pingle"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": "A planned uprising, not a sustained war."
+    },
+    {
+      "id": "afghan3",
+      "startYear": 1919,
+      "endYear": 1919,
+      "period": "4 May–3 June 1919",
+      "kind": "Interstate war",
+      "region": "Afghanistan and north-western frontier",
+      "title": "Third Anglo-Afghan War",
+      "parties": "Afghanistan ↔ British India",
+      "summary": "Fighting broke out after Amanullah Khan's accession and Afghanistan's bid for foreign-policy independence.",
+      "engagements": "Frontier engagements in May 1919",
+      "outcome": "An armistice and later agreements recognised Afghan independence in foreign relations.",
+      "leaders": [
+        "Amanullah Khan"
+      ],
+      "sourceIds": [
+        "iranica"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "frontier1919",
+      "startYear": 1919,
+      "endYear": 1920,
+      "period": "1919–1920",
+      "kind": "Frontier campaign",
+      "region": "Waziristan and north-western frontier",
+      "title": "Waziristan campaign",
+      "parties": "British Indian forces ↔ Wazir and Mahsud communities",
+      "summary": "Military operations took place amid frontier instability after World War I and the Third Anglo-Afghan War.",
+      "engagements": "Operations in Waziristan",
+      "outcome": "A prolonged campaign was followed by later frontier operations.",
+      "leaders": [
+        "British Indian commanders",
+        "Wazir and Mahsud leaders"
+      ],
+      "sourceIds": [
+        "frontierNAM"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "malabar",
+      "startYear": 1921,
+      "endYear": 1922,
+      "period": "1921–1922",
+      "kind": "Armed rebellion",
+      "region": "Malabar, Kerala",
+      "title": "Malabar / Moplah rebellion",
+      "parties": "Mappila cultivators and local actors ↔ colonial authorities and landlords; communal violence affected multiple communities",
+      "summary": "The uprising combined agrarian grievances, anti-colonial mobilisation and communal violence.",
+      "engagements": "Ernad and Valluvanad",
+      "outcome": "Suppressed; causes and violence should be read in local context.",
+      "leaders": [
+        "Ali Musaliar",
+        "Variyamkunnath Kunjahammad Haji"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "rampa",
+      "startYear": 1922,
+      "endYear": 1924,
+      "period": "1922–1924",
+      "kind": "Armed rebellion",
+      "region": "Godavari Agency, Andhra region",
+      "title": "Manyam / Rampa rebellion",
+      "parties": "Tribal fighters led by Alluri Sitarama Raju ↔ British colonial police and forces",
+      "summary": "A guerrilla uprising rooted in forest restrictions and colonial administration.",
+      "engagements": "Police-station attacks from August 1922; ended May 1924",
+      "outcome": "Suppressed after Raju's capture and killing in 1924.",
+      "leaders": [
+        "Alluri Sitarama Raju",
+        "Gam Gantam Dora",
+        "Gam Mallu Dora"
+      ],
+      "sourceIds": [
+        "rampa"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "kakori",
+      "startYear": 1925,
+      "endYear": 1925,
+      "period": "9 August 1925",
+      "kind": "Revolutionary operation",
+      "region": "United Provinces",
+      "title": "Kakori train action",
+      "parties": "Hindustan Republican Association members ↔ colonial treasury and authorities",
+      "summary": "Revolutionaries stopped a train and seized government funds to support their organisation.",
+      "engagements": "Kakori near Lucknow",
+      "outcome": "Prosecution resulted in death sentences and long prison terms.",
+      "leaders": [
+        "Ram Prasad Bismil",
+        "Ashfaqulla Khan",
+        "Rajendra Lahiri",
+        "Roshan Singh",
+        "Chandrashekhar Azad"
+      ],
+      "sourceIds": [
+        "resistanceInflibnet"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "saunders",
+      "startYear": 1928,
+      "endYear": 1928,
+      "period": "17 December 1928",
+      "kind": "Revolutionary operation",
+      "region": "Lahore, Punjab",
+      "title": "Saunders assassination",
+      "parties": "HSRA members ↔ colonial police official J. P. Saunders",
+      "summary": "Revolutionaries killed Saunders as retaliation for injuries to Lala Lajpat Rai.",
+      "engagements": "Lahore",
+      "outcome": "The action led to the Lahore Conspiracy Case.",
+      "leaders": [
+        "Bhagat Singh",
+        "Shivaram Rajguru",
+        "Chandrashekhar Azad",
+        "Sukhdev"
+      ],
+      "sourceIds": [
+        "nehru"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "assembly",
+      "startYear": 1929,
+      "endYear": 1929,
+      "period": "8 April 1929",
+      "kind": "Revolutionary operation",
+      "region": "Delhi",
+      "title": "Central Legislative Assembly bombing",
+      "parties": "Bhagat Singh and Batukeshwar Dutt ↔ colonial legislative authority",
+      "summary": "Low-intensity bombs were thrown in the Assembly, followed by leaflets and surrender.",
+      "engagements": "Central Legislative Assembly",
+      "outcome": "No deaths occurred; the trial became a public platform for revolutionary politics.",
+      "leaders": [
+        "Bhagat Singh",
+        "Batukeshwar Dutt"
+      ],
+      "sourceIds": [
+        "nehru"
+      ],
+      "notes": "Not a conventional battle; included as a political operation."
+    },
+    {
+      "id": "chittagong",
+      "startYear": 1930,
+      "endYear": 1930,
+      "period": "18 April 1930",
+      "kind": "Revolutionary operation",
+      "region": "Chittagong, Bengal",
+      "title": "Chittagong Armoury Raid",
+      "parties": "Indian Republican Army, Chittagong branch ↔ colonial police and auxiliary forces",
+      "summary": "Surya Sen's group seized armouries and disrupted communications.",
+      "engagements": "Armouries and telegraph links in Chittagong",
+      "outcome": "The group could not secure sufficient ammunition; underground resistance continued.",
+      "leaders": [
+        "Surya Sen",
+        "Ganesh Ghosh",
+        "Lokenath Bal",
+        "Ananta Singh",
+        "Pritilata Waddedar",
+        "Kalpana Dutta"
+      ],
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pahartali",
+      "startYear": 1932,
+      "endYear": 1932,
+      "period": "23 September 1932",
+      "kind": "Revolutionary operation",
+      "region": "Chittagong, Bengal",
+      "title": "Pahartali European Club attack",
+      "parties": "Chittagong revolutionary network ↔ colonial club and police",
+      "summary": "Pritilata Waddedar led an attack on the Pahartali European Club.",
+      "engagements": "Pahartali, Chittagong",
+      "outcome": "Pritilata died after taking cyanide to avoid capture.",
+      "leaders": [
+        "Pritilata Waddedar",
+        "Surya Sen network"
+      ],
+      "sourceIds": [
+        "amrit",
+        "nationalBookTrust"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "imphal",
+      "startYear": 1944,
+      "endYear": 1944,
+      "period": "March–July 1944",
+      "kind": "World War II campaign",
+      "region": "Imphal and Kohima, northeast India",
+      "title": "Imphal–Kohima campaign",
+      "parties": "Allied forces in India ↔ Japanese forces and the Indian National Army",
+      "summary": "Japanese and INA forces advanced into northeast India and fought around Imphal and Kohima.",
+      "engagements": "Imphal; Kohima; Manipur frontier",
+      "outcome": "The offensive was defeated; INA personnel were later tried in Delhi.",
+      "leaders": [
+        "Subhas Chandra Bose",
+        "Shah Nawaz Khan",
+        "Allied and Japanese commanders"
+      ],
+      "sourceIds": [
+        "nehru"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "rin",
+      "startYear": 1946,
+      "endYear": 1946,
+      "period": "18–23 February 1946",
+      "kind": "Military uprising",
+      "region": "Bombay and other naval stations",
+      "title": "Royal Indian Navy ratings' revolt",
+      "parties": "Indian naval ratings ↔ Royal Indian Navy command and colonial authorities",
+      "summary": "A ratings' strike expanded into a revolt with political demands at several naval establishments.",
+      "engagements": "HMIS Talwar, Bombay; unrest at other ports",
+      "outcome": "The revolt ended after surrender and negotiations.",
+      "leaders": [
+        "Naval ratings",
+        "B. C. Dutt"
+      ],
+      "sourceIds": [
+        "nehru"
+      ],
+      "notes": ""
+    }
+  ],
+  "sources": [
+    {
+      "id": "bl",
+      "name": "British Library — East India Company archive",
+      "url": "https://searcharchives.bl.uk/catalog/032-000173250",
+      "note": "Company voyages, factories and trading settlements."
+    },
+    {
+      "id": "ie",
+      "name": "The Indian Express — English factory at Surat",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/english-factory-india-surat-british-9786883/lite/",
+      "note": "Hawkins, Surat and the early English trading foothold."
+    },
+    {
+      "id": "parliamentCompany",
+      "name": "UK Parliament — East India Company and Raj, 1785–1858",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/",
+      "note": "Company expansion, the 1857 rising and the transfer of power."
+    },
+    {
+      "id": "goiAct",
+      "name": "Government of India Act 1858 — legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/21-22/106/contents/enacted",
+      "note": "Primary legislation transferring government to the Crown."
+    },
+    {
+      "id": "raj",
+      "name": "UK Parliament — Government of the Raj, 1858–1914",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/",
+      "note": "Crown-era administration and legislative structures."
+    },
+    {
+      "id": "iaAct",
+      "name": "UK Parliament — Indian Independence Act 1947",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/collections1/collections2/1947-indian-independence-act/",
+      "note": "The Act, the two Dominions and the legal transfer."
+    },
+    {
+      "id": "archives",
+      "name": "UK National Archives — Partition of British India",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/",
+      "note": "The 3 June Plan, border announcement and partition context."
+    },
+    {
+      "id": "gandhi",
+      "name": "Gandhi Smriti — Chronology of Mahatma Gandhi",
+      "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi",
+      "note": "Dated chronology of Gandhi's work and the freedom movement."
+    },
+    {
+      "id": "gportal",
+      "name": "Gandhi Heritage Portal — Event chronology",
+      "url": "https://gandhiheritageportal.org/chronology/event-chronology-listing",
+      "note": "Primary-source-linked chronology and day-by-day records."
+    },
+    {
+      "id": "dandi",
+      "name": "Gandhi Heritage Portal — Salt Satyagraha background",
+      "url": "https://www.gandhiheritageportal.org/background-to-the-salt-satyagraha",
+      "note": "The decision, letter and start of the Salt March."
+    },
+    {
+      "id": "dandiGov",
+      "name": "Ministry of Culture — Dandi March",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/day-1-12th-march.htm",
+      "note": "Government of India account of the march, 12 March–5 April 1930."
+    },
+    {
+      "id": "inc",
+      "name": "Indian National Congress — Brief history",
+      "url": "https://inc.in/brief-history-of-congress",
+      "note": "The first session and later Congress milestones."
+    },
+    {
+      "id": "nehru",
+      "name": "Nehru Portal — Freedom Struggle",
+      "url": "https://nehruportal.nic.in/node/9",
+      "note": "Nehru's documented participation and chronology."
+    },
+    {
+      "id": "iranica",
+      "name": "Encyclopaedia Iranica — Anglo-Afghan Wars",
+      "url": "https://www.iranicaonline.org/articles/anglo-afghan-wars/",
+      "note": "Scholarly overview of all three Anglo-Afghan wars."
+    },
+    {
+      "id": "amrit",
+      "name": "Azadi Ka Amrit Mahotsav — Chittagong Armoury Raid",
+      "url": "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2556=",
+      "note": "Ministry of Culture district repository entry."
+    },
+    {
+      "id": "rampa",
+      "name": "Press Information Bureau — Alluri Sitarama Raju",
+      "url": "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=148563",
+      "note": "Government of India account of the Manyam/Rampa rebellion."
+    },
+    {
+      "id": "archontology",
+      "name": "Archontology — British India viceroys and governors-general",
+      "url": "https://archontology.org/nations/british_india/00_1858_1947_gg.php",
+      "note": "Term dates, including acting office-holders."
+    },
+    {
+      "id": "ignca",
+      "name": "IGNCA — History of India (PDF)",
+      "url": "https://ignca.gov.in/Asi_data/46527.pdf",
+      "note": "Historical survey including the rise of the Congress."
+    },
+    {
+      "id": "nationalBookTrust",
+      "name": "National Book Trust — Hanged for Patriotism (PDF)",
+      "url": "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf",
+      "note": "Documentary account of the Chittagong revolutionary network."
+    },
+    {
+      "id": "assamGov",
+      "name": "Government of Assam — Battle of Alaboi and Saraighat",
+      "url": "https://kamrup.assam.gov.in/about-us/battle-alaboi-and-saraighat",
+      "note": "Government account of the 1669 Alaboi and 1671 Saraighat battles; casualty figures are reported estimates."
+    },
+    {
+      "id": "panipatGov",
+      "name": "District Administration Panipat — Third Battle of Panipat",
+      "url": "https://panipat.gov.in/third-battle/",
+      "note": "Government of Haryana overview of the 14 January 1761 battle."
+    },
+    {
+      "id": "wheMysore",
+      "name": "World History Encyclopedia — Anglo-Mysore Wars",
+      "url": "https://www.worldhistory.org/Anglo-Mysore_Wars/",
+      "note": "Overview of the four Mysore–Company wars."
+    },
+    {
+      "id": "wheMaratha",
+      "name": "World History Encyclopedia — Anglo-Maratha Wars",
+      "url": "https://www.worldhistory.org/Anglo-Maratha_Wars/",
+      "note": "Overview of the three Anglo-Maratha wars."
+    },
+    {
+      "id": "ebscoMaratha",
+      "name": "EBSCO Research Starters — Maratha Wars",
+      "url": "https://www.ebsco.com/research-starters/history/maratha-wars",
+      "note": "Reference overview of the Anglo-Maratha wars."
+    },
+    {
+      "id": "rohillaBL",
+      "name": "British Library — Rohilla War, India Office Records",
+      "url": "https://searcharchives.bl.uk/catalog/040-000004262",
+      "note": "Archival record of the Rohilla War and the battle of 23 April 1774."
+    },
+    {
+      "id": "resistanceInflibnet",
+      "name": "INFLIBNET — Resistance to British Rule",
+      "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/resistance-to-the-british-rule/",
+      "note": "Academic teaching chapter on peasant, Adivasi and regional rebellions."
+    },
+    {
+      "id": "companyInflibnet",
+      "name": "INFLIBNET — India under the East India Company",
+      "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/india-under-the-east-india-company/",
+      "note": "Academic teaching chapter on Company expansion, Maratha wars and the Pindari campaign."
+    },
+    {
+      "id": "frontierNAM",
+      "name": "National Army Museum — The North-West Frontier",
+      "url": "https://www.nam.ac.uk/explore/north-west-frontier-india",
+      "note": "Museum overview of frontier expeditions including Malakand, Samana and Tirah."
+    },
+    {
+      "id": "tirahNAM",
+      "name": "National Army Museum — Tirah Expedition collection",
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1957-05-28-1-17",
+      "note": "Museum collection record for the 1897–98 Tirah Field Force."
+    },
+    {
+      "id": "burmaNAM",
+      "name": "National Army Museum — Third Burma War",
+      "url": "https://www.nam.ac.uk/explore/third-burma-war",
+      "note": "Museum overview of the 1885 invasion and annexation of Upper Burma."
+    },
+    {
+      "id": "bhutanLOC",
+      "name": "Library of Congress — Political missions to Bhutan (1865)",
+      "url": "https://www.loc.gov/item/42049302/",
+      "note": "Digitised contemporary collection on British India–Bhutan relations and the Duar War."
+    },
+    {
+      "id": "sosWorldStatesmen",
+      "name": "World Statesmen — India office-holder chronology",
+      "url": "https://www.worldstatesmen.org/India.htm",
+      "note": "Chronological reference for Governors-General, Viceroys, acting terms and India Office holders."
+    }
+  ]
+}

@@ -17,7 +17,7 @@
 <header class="ar-top">
 <a class="ar-brand" href="index.html">Bhārat Itihās<small>Living Chronicle · 1600–1947</small></a>
 <nav class="ar-nav" aria-label="Archive navigation">
-<a href="index.html">← Main chronicle</a><a href="independence.html" aria-current="page">Independence</a><a href="revolutionaries.html">Revolutionaries</a>
+<a href="index.html">← Main chronicle</a><a href="independence.html" aria-current="page">Independence</a><a href="#wars">Wars</a><a href="revolutionaries.html">Revolutionaries</a>
 </nav>
 </header>
 <main>
@@ -26,7 +26,7 @@
 <h1>The long road to <em>freedom</em></h1>
 <p class="ar-lede">A guided, dated record from the East India Company's charter in 1600 to the transfer of power in 1947—covering expansion, wars, resistance, reform, mass movements and the people who shaped them.</p>
 <div class="ar-stats"><span class="ar-stat"><strong>1600–1947</strong> coverage</span><span class="ar-stat"><strong id="statEvents">—</strong> milestones</span><span class="ar-stat"><strong id="statAdmins">—</strong> administrators</span><span class="ar-stat"><strong>1947</strong> independence</span></div>
-<div class="ar-hero-actions"><a class="ar-btn primary" href="#timeline">Explore the timeline ↓</a><a class="ar-btn" href="revolutionaries.html">Meet revolutionaries →</a></div>
+<div class="ar-hero-actions"><a class="ar-btn primary" href="#timeline">Explore the timeline ↓</a><a class="ar-btn" href="#wars">Wars & campaigns</a><a class="ar-btn" href="revolutionaries.html">Meet revolutionaries →</a></div>
 </section>
 <section class="ar-card ar-intro" aria-label="A note on the dates">
 <div><h2>From trading company to colonial state</h2><p>The English East India Company received its charter on <strong>31 December 1600</strong>. Its first major contacts with Mughal India followed in the early 17th century. Military victories and revenue rights made it a territorial power; after the uprising of 1857, Parliament transferred the administration to the Crown in 1858.</p><p>India became an independent Dominion on <strong>15 August 1947</strong>. Partition accompanied the transfer, and the new boundary awards were published on 17 August.</p></div>
@@ -51,6 +51,12 @@
 <div class="ar-event-list" id="eventsList" aria-live="polite" aria-busy="true"><div class="ar-card ar-empty">Loading the chronology…</div></div>
 <div class="ar-load" id="loadMoreWrap" hidden><button class="ar-btn" id="loadMoreBtn" type="button">Load more events</button></div>
 </section>
+
+<section class="ar-section" id="wars">
+<div class="ar-section-head"><div><div class="ar-kicker">02 / The battlefield register</div><h2>Wars, battles & armed resistance</h2><p>Explore interstate wars, Company campaigns, frontier expeditions and major armed uprisings. Filter by conflict type and region.</p></div><span class="ar-count" id="warCount" aria-live="polite"></span></div>
+<div class="ar-card ar-controls"><div class="ar-filter-row" style="grid-template-columns:minmax(180px,1fr) minmax(170px,.72fr) minmax(180px,.72fr)"><input class="ar-input" id="warSearch" type="search" placeholder="Search a war, battle, place or commander…" aria-label="Search wars and campaigns"><select class="ar-select" id="warType" aria-label="Filter by conflict type"><option value="all">All conflict types</option></select><select class="ar-select" id="warRegion" aria-label="Filter by region"><option value="all">All regions</option></select></div><p class="ar-note" style="margin-top:.75rem">The register distinguishes wars from battles, expeditions, rebellions and planned revolutionary actions. Several frontier and regional conflicts were sequences of separate episodes rather than one continuous war.</p></div>
+<div class="ar-war-list" id="warsList" aria-live="polite" aria-busy="true"><div class="ar-card ar-empty">Loading the war register…</div></div>
+</section>
 <section class="ar-section" id="administrators">
 <div class="ar-section-head"><div><div class="ar-kicker">02 / The offices of power</div><h2>Governors-General, Viceroys & successors</h2><p>Company-era Bengal governors, Governors-General, acting office-holders, Viceroys and Dominion Governors-General.</p></div></div>
 <div class="ar-card ar-controls">
@@ -61,6 +67,7 @@
 <p class="ar-note" style="margin-top:.8rem">Terms are shown by year except where the 1947 transfer calls for exact dates. Acting office-holders are labelled. The list covers the central offices named above; provincial governors and Secretaries of State for India were separate offices.</p>
 </div>
 </section>
+<section class="ar-section" id="india-office"><div class="ar-section-head"><div><div class="ar-kicker">04 / London and the India Office</div><h2>Secretaries of State for India</h2><p>The British Cabinet office created in 1858 and held until the 1947 transfer of power.</p></div></div><div class="ar-card ar-sources"><details><summary>Show the Secretary of State directory</summary><div class="ar-admin-list" id="secretaryList"><div class="ar-empty">Loading the India Office directory…</div></div></details></div></section>
 <section class="ar-section">
 <div class="ar-section-head"><div><div class="ar-kicker">03 / How the office changed</div><h2>One title, several constitutional eras</h2></div></div>
 <div class="ar-roles">
