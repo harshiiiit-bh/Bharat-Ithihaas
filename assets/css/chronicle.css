@@ -376,6 +376,7 @@ nav.nav-links a:hover{color:var(--gold-b);}
 /* ── GATEWAY ── */
 .gateway{padding:0 5vw 4rem;max-width:1100px;margin:0 auto;}
 .gw-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.2rem;}
+@media(max-width:900px){.gw-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
 @media(max-width:560px){.gw-grid{grid-template-columns:1fr;}}
 .gw-card{position:relative;text-align:left;padding:1.8rem 1.6rem 1.7rem;border-radius:10px;cursor:pointer;overflow:hidden;border:1px solid var(--line);background:linear-gradient(158deg,rgba(255,255,255,.038),rgba(255,255,255,.008));transition:transform .3s,border-color .3s,box-shadow .3s;}
 .gw-card::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .35s;}
