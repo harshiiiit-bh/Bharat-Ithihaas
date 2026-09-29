@@ -1438,6 +1438,29 @@
         "nehru"
       ],
       "notes": ""
+    },
+    {
+      "id": "w-kashmir1947",
+      "startYear": 1947,
+      "endYear": 1949,
+      "period": "22 October 1947–1 January 1949",
+      "kind": "Post-independence interstate war",
+      "region": "Jammu and Kashmir",
+      "title": "First India–Pakistan War (1947–1949)",
+      "parties": "Dominion of India ↔ Pakistan; conflict began after armed tribal forces entered Jammu and Kashmir",
+      "summary": "Armed conflict began in Jammu and Kashmir in October 1947, after the princely state's political crisis and invasion by tribal forces from the northwest. The ruler signed an Instrument of Accession to India, followed by the arrival of Indian troops.",
+      "engagements": "Baramulla and Srinagar approaches (October–November 1947); campaigns across the Kashmir region; UN-mediated ceasefire took effect on 1 January 1949.",
+      "outcome": "The war continued beyond the 1947 endpoint of the British-India chronology. A ceasefire line was established under United Nations arrangements; the conflict's legal and political interpretations remain contested in Indian and Pakistani historiographies.",
+      "leaders": [
+        "Maharaja Hari Singh",
+        "Sheikh Abdullah",
+        "Lord Mountbatten",
+        "Indian and Pakistani military commanders"
+      ],
+      "sourceIds": [
+        "britKashmir"
+      ],
+      "notes": "Included because the conflict began in 1947, after independence. It is not a war of the British Raj; its end date falls outside the 1600–1947 timeline."
     }
   ],
   "sources": [
@@ -1632,6 +1655,12 @@
       "name": "World Statesmen — India office-holder chronology",
       "url": "https://www.worldstatesmen.org/India.htm",
       "note": "Chronological reference for Governors-General, Viceroys, acting terms and India Office holders."
+    },
+    {
+      "id": "britKashmir",
+      "name": "Encyclopaedia Britannica — Indo-Pakistani War of 1947–48",
+      "url": "https://www.britannica.com/event/Indo-Pakistani-war-of-1947-1948",
+      "note": "Overview of the first India–Pakistan war, which began in 1947 and continued into 1949."
     }
   ]
 }

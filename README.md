@@ -47,7 +47,7 @@ Every `sourceIds` value should match a source object's `id` in the relevant JSON
 
 ## Scope and historical notes
 
-The 1600–1947 timeline is a curated, searchable chronology of important and regionally significant milestones. It is not a claim to include every local action, raid, battle or every day over the entire period. The Company’s governing powers in India ended in 1858 when administration passed to the Crown; the East India Company’s formal corporate dissolution came later, in 1874. The 1947 transfer created the Dominions of India and Pakistan and was accompanied by Partition.
+The 1600–1947 timeline is a curated, searchable chronology of important and regionally significant milestones. It is not a claim to include every local action, raid, battle or every day over the entire period. The Company’s governing powers in India ended in 1858 when administration passed to the Crown; the East India Company’s formal corporate dissolution came later, in 1874. The 1947 transfer created the Dominions of India and Pakistan and was accompanied by Partition. The wars register also includes the first India–Pakistan war because it began in October 1947; its continuation to 1949 is explicitly marked as outside the timeline endpoint.
 
 The office directory separates Company-era governors, Governors-General, Viceroys, acting holders, Dominion Governors-General and Presidents. The Secretary of State for India was a separate office in London; from 1937 its designation included Burma, and its India role ended with independence.
 
