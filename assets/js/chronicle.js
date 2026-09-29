@@ -1829,6 +1829,24 @@ const TIMELINE_BANDS = [
 })();
 
 
+
+/* ── PERSISTENT TIMELINE DOCK ── */
+(function initTimelineDock(){
+  const range=document.getElementById('timelineDockRange');
+  const open=document.getElementById('timelineDockOpen');
+  if(!range)return;
+  range.addEventListener('input',()=>{
+    if(typeof window.chronicleSetYear==='function')window.chronicleSetYear(range.value);
+  });
+  range.addEventListener('change',()=>{
+    if(typeof window.chronicleCommitYear==='function')window.chronicleCommitYear(range.value,false);
+  });
+  open?.addEventListener('click',()=>{
+    document.getElementById('timeline-sec')?.scrollIntoView({behavior:'smooth',block:'start'});
+    if(typeof window.chronicleCommitYear==='function')window.chronicleCommitYear(range.value,true);
+  });
+})();
+
 /* ══ GATEWAY ══ */
 const gwCards=document.querySelectorAll('.gw-card');
 const searchPanel=document.getElementById('searchPanel');
