@@ -4,7 +4,7 @@ const $=id=>document.getElementById(id);
 const list=$("eventsList"),slider=$("yearSlider"),output=$("yearOutput"),search=$("eventSearch"),category=$("eventCategory"),count=$("timelineCount");
 const warList=$("warsList"),warSearch=$("warSearch"),warType=$("warType"),warRegion=$("warRegion");
 const palette={company:"#dfa840",war:"#e05c42",resistance:"#9b7be0",revolution:"#e05c42",mass:"#2ec4b6",congress:"#d9af69",reform:"#91a5c9",independence:"#f5d87a"};
-let events=[],sources=[],admins=[],warItems=[],warSources=[],visibleLimit=1000,reverse=false,adminFilter="all";
+let events=[],sources=[],admins=[],warItems=[],warSources=[],visibleLimit=36,reverse=false,adminFilter="all",decadeRange=null,scopeMode="through";
 const safe=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const dateRank=e=>{const t=e.dateLabel||"",mn={January:0,February:1,March:2,April:3,May:4,June:5,July:6,August:7,September:8,October:9,November:10,December:11};let m=t.match(/(\d{1,2})\s*[–-]\s*\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})/);if(m)return Date.UTC(+m[3],mn[m[2]],+m[1]);m=t.match(/(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)(?:\s*[–-]\s*\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December))?\s+(\d{4})/);if(m)return Date.UTC(+m[3],mn[m[2]],+m[1]);m=t.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s*[–-]\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})/);if(m)return Date.UTC(+m[2],mn[m[1]],1);m=t.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),?\s+(\d{4})/);if(m)return Date.UTC(+m[3],mn[m[1]],+m[2]);m=t.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})/);if(m)return Date.UTC(+m[2],mn[m[1]],1);return Date.UTC(e.year,0,1)};
 const yearFromHash=()=>{const m=location.hash.match(/year-(\d{4})/);return m?Math.max(1600,Math.min(1947,Number(m[1]))):null};
@@ -12,14 +12,21 @@ function sourceLinks(ids){return (ids||[]).map(id=>{const s=sources.find(x=>x.id
 function renderEvents(){
  const y=Number(slider.value),q=search.value.trim().toLocaleLowerCase(),cat=category.value;
  output.textContent=y;
- const found=events.filter(e=>e.year<=y&&(cat==="all"||e.category===cat)&&(!q||[e.dateLabel,e.title,e.summary,e.detail,...(e.people||[])].join(" ").toLocaleLowerCase().includes(q)));
+ const found=events.filter(e=>(decadeRange?(e.year>=decadeRange[0]&&e.year<=decadeRange[1]):(scopeMode==="year"?e.year===y:e.year<=y))&&(cat==="all"||e.category===cat)&&(!q||[e.dateLabel,e.title,e.summary,e.detail,...(e.people||[])].join(" ").toLocaleLowerCase().includes(q)));
  const rows=reverse?found.slice().reverse():found;
- count.textContent=found.length+" of "+events.length+" events through "+y;
+ count.textContent=found.length+" of "+events.length+" events "+(decadeRange?"in "+decadeRange[0]+"–"+decadeRange[1]:scopeMode==="year"?"in "+y:"through "+y);
  $("loadMoreWrap").hidden=rows.length<=visibleLimit;
  $("loadMoreBtn").textContent="Load more events ("+(rows.length-visibleLimit)+" remaining)";
  list.setAttribute("aria-busy","false");
  if(!rows.length){list.innerHTML='<div class="ar-card ar-empty">No events match these filters. Try an earlier year, another category or a broader search.</div>';return}
  list.innerHTML=rows.slice(0,visibleLimit).map(e=>'<article class="ar-card ar-event" style="--event-accent:'+ (palette[e.category]||palette.company)+'"><div class="ar-event-date">'+safe(e.dateLabel)+'</div><div class="ar-event-main"><span class="ar-tag">'+safe(e.category)+'</span><h3>'+safe(e.title)+'</h3><p>'+safe(e.summary)+'</p><details><summary>Read context & people involved</summary><div class="ar-detail"><p>'+safe(e.detail)+'</p>'+(e.people&&e.people.length?'<div class="ar-people">'+e.people.map(n=>'<span class="ar-person">'+safe(n)+'</span>').join("")+'</div>':"")+(e.sourceIds&&e.sourceIds.length?'<p class="ar-small">Further reading: '+sourceLinks(e.sourceIds)+'</p>':"")+'</div></details></div></article>').join("");
+}
+function renderDensity(){
+ const el=$("eventDensity");if(!el)return;
+ const buckets=[];for(let y=1600;y<=1940;y+=10){const end=Math.min(y+9,1947);const n=events.filter(e=>e.year>=y&&e.year<=end).length;buckets.push({start:y,end,n,label:y+"s"})}
+ const max=Math.max(1,...buckets.map(x=>x.n));
+ el.innerHTML=buckets.map(b=>'<button type="button" class="ar-density-bar'+(decadeRange&&decadeRange[0]===b.start?' active':'')+'" data-decade-start="'+b.start+'" data-decade-end="'+b.end+'" aria-label="'+b.label+': '+b.n+' recorded events" aria-pressed="'+String(!!(decadeRange&&decadeRange[0]===b.start))+'"><span class="ar-density-value">'+b.n+'</span><span class="ar-density-track"><i style="height:'+Math.max(4,Math.round(68*b.n/max))+'px"></i></span><span class="ar-density-label">'+b.start.toString().slice(2)+'</span></button>').join("");
+ el.querySelectorAll("[data-decade-start]").forEach(b=>b.addEventListener("click",()=>{decadeRange=[Number(b.dataset.decadeStart),Number(b.dataset.decadeEnd)];slider.value=String(decadeRange[1]);$("clearDecade").hidden=false;renderDensity();visibleLimit=36;renderEvents()}));
 }
 function renderAdmins(){
  const map={all:()=>true,company:a=>a.office.includes("Company")||a.office.includes("Bengal (Company)"),gg:a=>a.office.includes("Governor-General")&&!a.office.includes("Viceroy")&&!a.office.includes("Dominion"),viceroy:a=>a.office.includes("Viceroy"),dominion:a=>a.office.includes("Dominion")||a.office.includes("President")};
@@ -39,11 +46,12 @@ function boot(){
  events=d.events||[];sources=d.sources||[];events.sort((a,b)=>a.year-b.year||dateRank(a)-dateRank(b));
  $("statEvents").textContent=events.length;
  const initial=yearFromHash();if(initial!==null)slider.value=String(initial);
- slider.addEventListener("input",renderEvents);search.addEventListener("input",()=>{visibleLimit=36;renderEvents()});category.addEventListener("change",()=>{visibleLimit=36;renderEvents()});
+ slider.addEventListener("input",()=>{decadeRange=null;$("clearDecade").hidden=true;renderDensity();visibleLimit=36;renderEvents()});search.addEventListener("input",()=>{visibleLimit=36;renderEvents()});category.addEventListener("change",()=>{visibleLimit=36;renderEvents()});
  $("sortBtn").addEventListener("click",()=>{reverse=!reverse;$("sortBtn").textContent=reverse?"Newest first ↓":"Oldest first ↑";$("sortBtn").setAttribute("aria-pressed",String(reverse));visibleLimit=36;renderEvents()});
- document.querySelectorAll("[data-year]").forEach(b=>b.addEventListener("click",()=>{slider.value=b.dataset.year;renderEvents()}));
+ document.querySelectorAll("[data-year]").forEach(b=>b.addEventListener("click",()=>{decadeRange=null;$("clearDecade").hidden=true;slider.value=b.dataset.year;renderDensity();visibleLimit=36;renderEvents()}));
+ $("scopeToggle").addEventListener("click",()=>{scopeMode=scopeMode==="through"?"year":"through";decadeRange=null;$("clearDecade").hidden=true;$("scopeToggle").textContent=scopeMode==="year"?"Selected year only":"Through selected year";$("scopeToggle").setAttribute("aria-pressed",String(scopeMode==="year"));$("scopeHelp").textContent=scopeMode==="year"?"Shows only events dated in the selected year.":"Shows events up to the selected year.";renderDensity();visibleLimit=36;renderEvents()});$("clearDecade").addEventListener("click",()=>{decadeRange=null;$("clearDecade").hidden=true;renderDensity();renderEvents()});
  $("loadMoreBtn").addEventListener("click",()=>{visibleLimit+=36;renderEvents()});
- renderEvents();renderSources("sourceList");if(initial!==null)document.getElementById("timeline").scrollIntoView({behavior:"auto",block:"start"});
+ renderEvents();renderDensity();renderSources("sourceList");if(initial!==null)document.getElementById("timeline").scrollIntoView({behavior:"auto",block:"start"});
  }).catch(err=>{list.setAttribute("aria-busy","false");list.innerHTML='<div class="ar-card ar-empty">The timeline data could not be loaded. Please refresh when the site is online.</div>';console.error(err)});
  fetch("assets/data/administrators.json").then(r=>{if(!r.ok)throw new Error("administrators "+r.status);return r.json()}).then(d=>{
  admins=(d.administrators||[]).map(a=>{let f=a.office.includes("Company")?"company":a.office.includes("Dominion")||a.office.includes("President")?"dominion":a.office.includes("Viceroy")?"viceroy":"gg";return {...a,_filter:f}});

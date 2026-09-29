@@ -35,7 +35,9 @@
 <section class="ar-section" id="timeline">
 <div class="ar-section-head"><div><div class="ar-kicker">01 / The moving record</div><h2>Timeline explorer</h2><p>Drag the year dial or choose a milestone to reveal the record up to that point.</p></div><span class="ar-count" id="timelineCount" aria-live="polite"></span></div>
 <div class="ar-card ar-controls">
-<div class="ar-slider-head"><label for="yearSlider" class="ar-small">SHOW EVENTS THROUGH YEAR</label><output id="yearOutput" class="ar-year" for="yearSlider">1947</output></div>
+<div class="ar-slider-head"><label for="yearSlider" class="ar-small">TIMELINE YEAR</label><output id="yearOutput" class="ar-year" for="yearSlider">1947</output></div>
+<div class="ar-scope-row"><span class="ar-note">View</span><button class="ar-chip" id="scopeToggle" type="button" aria-pressed="false">Through selected year</button><span class="ar-note" id="scopeHelp">Shows events up to the selected year.</span></div>
+<div class="ar-density-block"><div class="ar-density-head"><span class="ar-small">EVENT DENSITY BY DECADE</span><span class="ar-note">Select a bar to focus that decade</span></div><div class="ar-density-scroll"><div class="ar-density" id="eventDensity" role="group" aria-label="Number of recorded events per decade"></div></div><button class="ar-chip" id="clearDecade" type="button" hidden>Clear decade filter ×</button></div>
 <input class="ar-range" type="range" min="1600" max="1947" step="1" value="1947" id="yearSlider" aria-label="Timeline year, from 1600 to 1947">
 <div class="ar-milestones" aria-label="Jump to milestone">
 <button type="button" data-year="1600">1600 · Charter</button><button type="button" data-year="1757">1757 · Plassey</button><button type="button" data-year="1857">1857 · Revolt</button><button type="button" data-year="1885">1885 · Congress</button><button type="button" data-year="1919">1919 · Jallianwala</button><button type="button" data-year="1930">1930 · Salt March</button><button type="button" data-year="1942">1942 · Quit India</button><button type="button" data-year="1947">1947 · Freedom</button>
